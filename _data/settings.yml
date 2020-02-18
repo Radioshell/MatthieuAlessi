@@ -6,9 +6,9 @@ logo: logo.png
 
 
 menu:
-- {name: About, link: '/about'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: About, link: {{ site.baseurl }}
+- {name: Portfolio, link: {{ site.baseurl }}
+- {name: Contact, link: {{ site.baseurl }}
 
 
 #-------------------------------
