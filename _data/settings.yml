@@ -34,19 +34,13 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 hero:
   hero-title: Matthieu<br> Alessi <br> UX designer
 
-social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
-
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Test Text 1
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -69,30 +63,16 @@ work-process:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
-# My Team Section
-team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
-
 
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Graphic Design, color: '#fdb157', value: '90%'}
+- {name: UI Design, color: '#9473e6', value: '60%'}
+- {name: UX Design, color: '#bdecf6', value: '80%'}
+- {name: Illustration, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -166,15 +146,15 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
+    title : "Interface Design",
     type : "design"
   }
 - {
-    title : "BRANDING",
+    title : "Graphic Design",
     type : "branding"
   }
 - {
-    title : "ILLUSTRATION",
+    title : "Illustration",
     type : "illustration"
   }
 
@@ -227,8 +207,31 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "illustration"
+      
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      - type: "illustration"
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-7.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
 
-
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      - type: "illustration"
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-7.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
+      
 #-------------------------------
 # Testimonials Section
 
@@ -248,40 +251,6 @@ testimonial-items:
     designation: "CEO, Funder"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-
-#-------------------------------
-# Client Slider Section
-
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
 
 #-------------------------------
 # Contact Section
