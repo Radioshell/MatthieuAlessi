@@ -1,15 +1,12 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: Brightbeam
 logo: logo.png
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+
 
 menu:
 - {name: About, link: '/about/'}
-- {name: Blog, link: '/blog/'}
 - {name: Portfolio, link: '/portfolio/'}
 - {name: Contact, link: '/contact/'}
 
@@ -35,7 +32,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Matthieu<br> Alessi <br> UX designer
 
 social:
 - {icon: "ti-facebook", link: "#"}
