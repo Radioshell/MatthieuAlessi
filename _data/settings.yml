@@ -39,8 +39,7 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb:
-Test Text 1
+blurb: "Test Text 1"
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
