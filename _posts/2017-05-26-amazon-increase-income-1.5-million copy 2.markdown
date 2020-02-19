@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Test
-date:   
+date:   2019-05-05
 image:  post-5.jpg
 author: uixgeek
 tags:   UX design
