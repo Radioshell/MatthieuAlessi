@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  Amazon increase income 1.5 Million
-date:   2017-05-26 15:05:55 +0300
+layout: page
+title:  Test
+date:   
 image:  post-5.jpg
 author: uixgeek
 tags:   UX design
