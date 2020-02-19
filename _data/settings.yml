@@ -7,8 +7,9 @@ logo: logo.png
 
 menu:
 - {name: About, link: '/about'}
-- {name: Portfolio, link: '/about'}
-- {name: Contact, link: '/about'}
+- {name: Portfolio, link: '/portfolio'}
+- {name: Blog, link: '/blog'}
+- {name: Contact, link: '/contact'}
 
 
 #-------------------------------
