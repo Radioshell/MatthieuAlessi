@@ -1,4 +1,4 @@
-layout: post
+layout: page
 title:  test
 date:   2017-05-26 10:05:55 +0300
 image:  post-2.jpg
