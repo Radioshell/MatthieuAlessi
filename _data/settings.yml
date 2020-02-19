@@ -127,7 +127,7 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "/about"
+    url: "#"
     
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
@@ -159,7 +159,7 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "/about"
+    url: "#"
     portfolio-type:
      - type: "design"
      - type: "illustration"
