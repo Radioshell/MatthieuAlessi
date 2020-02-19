@@ -134,7 +134,7 @@ portfolio-home-items:
     url: "/2017/05/26/amazon-increase-income-1.5-million-copy-6/"
     
   - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "projects/test"
     
   - image : "assets/images/portfolio/item-4.png"
     url: "#"
