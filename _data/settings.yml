@@ -166,7 +166,7 @@ portfolio-items:
      - type: "illustration"
       
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "projects/test"
     portfolio-type:
       - type: "branding"
       
@@ -182,7 +182,7 @@ portfolio-items:
       - type: "branding"
       
   - image : "assets/images/portfolio/item-8.png"
-    url: "#"
+    url: "projects/test"
     portfolio-type:
       - type: "illustration"
       
@@ -204,7 +204,7 @@ portfolio-items:
       - type: "branding"
       
   - image : "assets/images/portfolio/item-7.png"
-    url: "#"
+    url: "projects/test"
     portfolio-type:
       - type: "illustration"
       
