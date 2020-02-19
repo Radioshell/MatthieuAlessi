@@ -127,7 +127,7 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "/about"
     
   - image : "assets/images/portfolio/item-2.png"
     url: "#"
