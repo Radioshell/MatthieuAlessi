@@ -160,12 +160,14 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
+    title : "TEST TITLE 2"
     url: "projects/test"
     portfolio-type:
      - type: "design"
      - type: "illustration"
       
   - image : "assets/images/portfolio/item-2.png"
+    title : "TEST TITLE"
     url: "projects/test"
     portfolio-type:
       - type: "branding"
