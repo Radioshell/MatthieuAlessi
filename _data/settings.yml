@@ -163,7 +163,7 @@ portfolio-items:
     title : "TEST TITLE 2"
     url: "projects/test"
     portfolio-type:
-      - label: "design"
+      - type: "design"
       - type: "illustration"
       
   - image : "assets/images/portfolio/item-2.png"
