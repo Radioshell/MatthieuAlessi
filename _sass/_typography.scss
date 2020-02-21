@@ -27,7 +27,7 @@ p, .paragraph {
   }
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4 {
   color: $text-color-dark;
   font-family: $secondary-font;
   line-height: 1.2;
@@ -57,9 +57,12 @@ h4, .h4{
 
 h5, .h5{
   font-size: 18px;
-  color: #ffffff
+  color: #ffffff;
+  line-height: 1.2;
 }
 
 h6, .h6{
   font-size: 14px;
+  color: #ffffff;
+  line-height: 1.2;
 }
