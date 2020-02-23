@@ -6,11 +6,11 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h1 class="text-white font-tertiary">Blogs</h1>
+        <h1 class="text-white font-tertiary">{{ page.title | escape }}</h1>
       </div>
     </div>
   </div>
-  <!-- background shapes -->
+  <!-- background shapes 
   <img src="{{ site.baseurl }}/assets/images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
   <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-pink-round.png" alt="illustrations" class="bg-shape-2">
   <img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="illustrations" class="bg-shape-3">
@@ -26,8 +26,10 @@ layout: default
     <div class="row">
       <div class="col-lg-12">
         <h3 class="font-tertiary mb-5">{{ page.title | escape }}</h3>
-        <p class="font-secondary">Published on {{ page.date | date: '%b %d, %Y' }} by <span class="text-primary">{{ page.author }}</span
-            class="text-primary"> on {% for tag in page.tags %}<span>{{ tag }} </span>{% endfor %}</p>
+       
+        <!--<p class="font-secondary">Published on {{ page.date | date: '%b %d, %Y' }} by <span class="text-primary">{{ page.author }}</span
+            class="text-primary"> on {% for tag in page.tags %}<span>{{ tag }} </span>{% endfor %}</p> -->
+        
         <div class="content">
           {{ content }}
         </div>
@@ -38,7 +40,7 @@ layout: default
 
 {% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
 
-<!-- blog -->
+<!-- blog 
 <section class="section">
   <div class="container">
     <div class="row">
@@ -63,4 +65,5 @@ layout: default
     </div>
   </div>
 </section>
+-->
 <!-- /blog -->
