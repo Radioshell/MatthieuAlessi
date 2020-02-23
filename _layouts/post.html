@@ -25,7 +25,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h3 class="text-title font-secondary">{{ page.subtitle | escape }}</h3> <h4 class= "font-secondary" style= "margin-bottom:50px"> {% for category in page.categories %}<span>{{ category }} | </span>{% endfor %}</h4>
+        <h3 class="font-secondary">{{ page.subtitle | escape }}</h3> <h4 class= "font-primary" style= "margin-bottom:50px"> {% for category in page.categories %}<span>{{ category }} | </span>{% endfor %}</h4>
        
         <!--<p class="font-secondary">Published on {{ page.date | date: '%b %d, %Y' }} by <span class="text-primary">{{ page.author }}</span
             class="text-primary"> on {% for tag in page.tags %}<span>{{ tag }} </span>{% endfor %}</p> -->
