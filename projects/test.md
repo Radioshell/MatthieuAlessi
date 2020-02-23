@@ -4,7 +4,7 @@ title:  test
 date:   2017-05-26 13:05:55 +0300
 image:  post-3.jpg
 author: uixgeek
-tags:   UX design
+tags:   UX design, UI design Branding
 ---
 ![post-thumb]({{site.baseurl}}/assets/images/blog/post-1.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}
 
