@@ -161,7 +161,7 @@ portfolio-label:
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
     title : "TEST TITLE 2"
-    tags: "test"
+    tags: "test tag"
     url: "projects/test"
     portfolio-type:
       - type: "design"
