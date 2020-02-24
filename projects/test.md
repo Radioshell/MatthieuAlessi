@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  test
+title:  titre de la page
 subtitle : test pb subtitle subtitle lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 date:   2017-05-26 13:05:55 +0300
 image:  post-3.jpg
