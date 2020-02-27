@@ -70,8 +70,8 @@ h6, .h6{
 }
 
 .slide-in-blurred-top {
-	-webkit-animation: slide-in-blurred-top 1.2s cubic-bezier(0.860, 0.000, 0.070, 1.000) both;
-	        animation: slide-in-blurred-top 1.2s cubic-bezier(0.860, 0.000, 0.070, 1.000) both;
+	-webkit-animation: slide-in-blurred-top 0.8s cubic-bezier(0.860, 0.000, 0.070, 1.000) both;
+	        animation: slide-in-blurred-top 0.8s cubic-bezier(0.860, 0.000, 0.070, 1.000) both;
 }
 
 @-webkit-keyframes slide-in-blurred-top {
