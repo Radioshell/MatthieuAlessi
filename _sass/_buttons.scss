@@ -50,6 +50,26 @@
   }
 }
 
+.btn-secondary {
+  background: none;
+  color: $secondary-color;
+
+  &:active {
+    background: lighten($color: $secondary-color, $amount: 10) !important;
+    color: $white;
+  }
+
+  &:hover {
+    background: lighten($color: $secondary-color, $amount: 10);
+    color: $white;
+  }
+
+  &.focus,
+  &.active {
+    background: lighten($color: $secondary-color, $amount: 10) !important;
+    box-shadow: none !important;
+  }
+}
 
 .btn-transparent {
   background: transparent;
