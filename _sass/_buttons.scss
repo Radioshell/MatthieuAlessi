@@ -62,8 +62,8 @@
   &:hover {
     background: $primary-color;
     color: $white;
-    outline : 5px;
-    outline-color : $secondary-color;
+    outline : $secondary-color soild 5px;
+    
   
   }
 
