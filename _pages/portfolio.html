@@ -12,7 +12,7 @@ title: Portfolio
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
           </label>
           {% for label in site.data.settings.portfolio-label %}
-          <label class="btn btn-sm btn-primary">
+          <label class="btn btn-sm btn-secondary">
             <input type="radio" name="shuffle-filter" value="{{ label.type }}" />{{ label.title }}
           </label>
           {% endfor %}
