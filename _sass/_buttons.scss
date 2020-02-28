@@ -60,8 +60,9 @@
   }
 
   &:hover {
-    background: lighten($color: $secondary-color, $amount: 10);
+    background: transparent;
     color: $white;
+    border-radius : 5px;
   }
 
   &.focus,
