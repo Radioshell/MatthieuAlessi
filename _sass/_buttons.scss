@@ -51,8 +51,8 @@
 }
 
 .btn-secondary {
-  background: none;
-  color: $secondary-color;
+  background: transparent;
+  color: $white;
 
   &:active {
     background: lighten($color: $secondary-color, $amount: 10) !important;
