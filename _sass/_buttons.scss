@@ -61,7 +61,9 @@
 
   &:hover {
     background: transparent;
-    color: lighten($color: $secondary-color, $amount: 40) !important;
+    color: $white;
+    border : 5px;
+    border-color : $secondary-color;
   
   }
 
