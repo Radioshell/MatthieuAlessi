@@ -249,12 +249,10 @@ svg circle:nth-child(2) {
   
 .card {
   position: relative;
-  width: 250px;
   background: $primary-color;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 300px;
   border-radius: 5px;
   text-align: center;
   overflow: hidden;
