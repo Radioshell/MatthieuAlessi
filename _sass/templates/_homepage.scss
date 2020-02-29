@@ -265,10 +265,11 @@ svg circle:nth-child(2) {
   box-shadow: 0 15px 35px rgba(120,20,60,.5);
 }
 
-.card:before [
+.card:before {
 position: absolute;
 top: 0;
 left: -50%;
 width: 100%;
 height: 100%;
 z-index: 1;
+}
