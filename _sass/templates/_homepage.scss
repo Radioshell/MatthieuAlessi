@@ -61,7 +61,7 @@
 
   &:hover {
     background: $primary-color;
-    transfrom: translateY(-10px)
+    transfrom: translateY(-10px);
 
     * {
       color: $white;
@@ -82,7 +82,7 @@
   transition: .2s ease;
   &:hover{
     box-shadow: 0px 18px 40px 8px rgba(224, 241, 255, 0.54) !important;
-    transfrom: translateY(-10px)
+    transfrom: translateY(-10px);
     
   }
 }
@@ -230,7 +230,7 @@ svg circle {
   stroke: $primary-color;
   stroke-width: 10px;
   stroke-linecap: round;
-  transfrom: translate(5px,5px);
+  transform: translate(5px,5px);
 }
 
 svg circle:nth-child(2) {
