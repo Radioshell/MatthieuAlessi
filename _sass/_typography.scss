@@ -37,11 +37,13 @@ h1, .h1{
   font-size: 65px;
   @include desktop {
     font-size: 55px;
-    @media screen and (max-width: 700px) {
-    font-size: 45px;
+ }
   }
+ @media screen and (max-width: 700px) {
+  h1, .h1{
+  font-size: 45px;
 }
-
+}
 h2, .h2{
   font-size: 35px;
   @include desktop {
