@@ -216,15 +216,9 @@
 /* /footer */
 
 /* /test */
-svg {
-  position: relative;
-  width: 150px;
-  height: 150px;
-  z-index: 1000;
-  
-}
 
-svg circle {
+
+circle {
   width: 100%;
   height: 100%;
   fill: none;
@@ -234,17 +228,17 @@ svg circle {
   transform: translate(5px,5px);
 }
 
-svg circle:nth-child(2) {
+circle:nth-child(2) {
   stroke-dasharray: 220;
   stroke-dashoffset: 220;
 }
-.card:nth-child(1) svg circle:nth-child(2) {
+.card:nth-child(1) circle:nth-child(2) {
     stroke: $secondary-color;
 }
-.card:nth-child(2) svg circle:nth-child(2) {
+.card:nth-child(2) circle:nth-child(2) {
     stroke: $secondary-color;
 }
-.card:nth-child(3) svg circle:nth-child(2) {
+.card:nth-child(3) circle:nth-child(2) {
     stroke: $secondary-color;
 }
   
