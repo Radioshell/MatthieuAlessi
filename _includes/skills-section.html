@@ -6,7 +6,7 @@
       <div class="col-lg-12 text-center">
         <h2 class="section-title">{{ site.data.settings.skills-title }}</h2>
       </div>
-      {% for skill in site.data.settings.skills %}
+      <!--{% for skill in site.data.settings.skills %}
       <!--div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
         <div class="card shadow text-center">
           <div class="position-relative rounded-top progress-wrapper" data-color="{{ skill.color }}">
@@ -16,22 +16,54 @@
             <h4 class="card-title">{{ skill.name }} ({{ skill.value }})</h4>
           </div>
         </div>
-      </div-->
+      </div>
+      {% endfor %}-->
       
       <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
           <div class="card shadow">
-        
                 <div class="card-body bg-primary text-center">
-                  <svg data-progress="{{ skill.value }}">
+                  <svg>
                     <circle cx="70" cy="70" r="70"></circle>
                     <circle cx="70" cy="70" r="70"></circle>
                   <svg>
-                  <h4>{{ skill.name }}</h4><div class="number"><h4>{{ skill.value }}</h4>
-                   </div>
-                  </div>
-            </div>
+                    <h4>{{ skill.name }}</h4><div class="number"><h4>{{ skill.value }}</h4>
+                 </div>
+             </div>
+            
+                
+          <div class="card shadow">
+                <div class="card-body bg-primary text-center">
+                  <svg>
+                    <circle cx="70" cy="70" r="70"></circle>
+                    <circle cx="70" cy="70" r="70"></circle>
+                  <svg>
+                    <h4>{{ skill.name }}</h4><div class="number"><h4>{{ skill.value }}</h4>
+                 </div>
+             </div>
+
+           <div class="card shadow">
+                <div class="card-body bg-primary text-center">
+                  <svg>
+                    <circle cx="70" cy="70" r="70"></circle>
+                    <circle cx="70" cy="70" r="70"></circle>
+                  <svg>
+                    <h4>{{ skill.name }}</h4><div class="number"><h4>{{ skill.value }}</h4>
+                 </div>
+             </div>
+
+          <div class="card shadow">
+                <div class="card-body bg-primary text-center">
+                  <svg>
+                    <circle cx="70" cy="70" r="70"></circle>
+                    <circle cx="70" cy="70" r="70"></circle>
+                  <svg>
+                    <h4>{{ skill.name }}</h4><div class="number"><h4>{{ skill.value }}</h4>
+                 </div>
+             </div>
+                    
+                  
       </div>
-      {% endfor %}
+      
     </div>
   </div>
 </section>
