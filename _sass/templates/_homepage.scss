@@ -235,17 +235,20 @@ svg circle {
 }
 
  svg circle:nth-child(2) {
-  stroke-dasharray: 220;
-  stroke-dashoffset: 220;
+  stroke-dasharray: 440;
+  stroke-dashoffset: 440;
 }
 .card:nth-child(1) svg circle:nth-child(2) {
     stroke: $secondary-color;
+    stroke-dashoffset: (440 - (440 * 90) / 100);
 }
 .card:nth-child(2) svg circle:nth-child(2) {
     stroke: $secondary-color;
+    stroke-dashoffset: (440 - (440 * 80) / 100);
 }
 .card:nth-child(3) svg circle:nth-child(2) {
     stroke: $secondary-color;
+    stroke-dashoffset: (440 - (440 * 70) / 100);
 }
 
 
