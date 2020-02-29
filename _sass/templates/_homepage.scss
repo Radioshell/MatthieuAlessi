@@ -234,15 +234,27 @@ svg circle:nth-child(2) {
   stroke-dasharray: 220;
   stroke-dashoffset: 220;
 }
-.card:nth-child(1) svg circle:nth-child(2) {
+.card-dark:nth-child(1) svg circle:nth-child(2) {
     stroke: $secondary-color;
 }
-.card:nth-child(2) svg circle:nth-child(2) {
+.card-dark:nth-child(2) svg circle:nth-child(2) {
     stroke: $secondary-color;
 }
-.card:nth-child(3) svg circle:nth-child(2) {
+.card-dark:nth-child(3) svg circle:nth-child(2) {
     stroke: $secondary-color;
 }
   
+.card-dark {
+  position: relative;
+  width: 250px;
+  background: $primary-color;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  border-radius: 5px;
+  text-align: center;
+  overflow: hidden;
+  transition: 0.5s;
   
   
