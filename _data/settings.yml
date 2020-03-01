@@ -78,12 +78,12 @@ skills:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Skills
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
-
+- {name: Adobe Suite, icon: 'icon-3.png', date: '⚪⚪⚪⚪⚪', organization: 'PS, AI, IND, AE'}
+- {name: Drawing Skills, icon: 'icon-2.png', date: '⚪⚪⚪⚪', organization: 'Traditional & Digital'}
+- {name: HTML/CSS, icon: 'icon-1.png', date: '⚪⚪', organization: 'Beginner'}
+- {name: English, icon: 'icon-2.png', date: '⚪⚪⚪⚪', organization: 'C1 - (955) TOEIC'}
 
 #-------------------------------
 # Education Section
