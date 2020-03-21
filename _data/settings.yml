@@ -8,7 +8,7 @@ logo: logo.png
 menu:
 - {name: About, link: '/about'}
 - {name: Portfolio, link: '/portfolio'}
-- {name: Blog, link: '/blog'}
+#- {name: Blog, link: '/blog'}
 - {name: Contact, link: '/contact'}
 
 
@@ -33,7 +33,7 @@ disqus-identifier: Shortname # Add your shortname for Disqus Comment. For exampl
 # Hero Section
 
 hero:
-  hero-title: Name<br> Name <br> UX designer
+  hero-title: Name Name <br> UX designer
 
 
 #-------------------------------
@@ -44,6 +44,7 @@ blurb: "Test Text 1"
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
+
 
 
 # About Page
@@ -126,6 +127,10 @@ services:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
+
+blurb-btn-link: '/portfolio'
+blurb-btn-name: see more
+
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "/about"
