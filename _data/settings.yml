@@ -128,8 +128,8 @@ services:
 
 # Portfolio Home Section
 
-blurb-btn-link: '/portfolio'
-blurb-btn-name: see more
+portfolio-btn-link: '/portfolio'
+portfolio-btn-name: see more
 
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
