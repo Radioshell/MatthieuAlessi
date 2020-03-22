@@ -33,7 +33,7 @@ disqus-identifier: Shortname # Add your shortname for Disqus Comment. For exampl
 # Hero Section
 
 hero:
-  hero-title: Name Name <br> UX designer
+  hero-title: Name Name <br> UX designer <br> UX designer
 
 
 #-------------------------------
