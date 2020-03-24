@@ -118,7 +118,7 @@ services:
 - {
     name: Art & Illustration,
     icon: ti-palette,
-    description: 'Illustration is a skill I have been working on for a very long time, from paper to tablet, allowing me to create visual elements or personal pieces. My style benefits from graphic design when it comes to composition and visual principles.',
+    description: 'Illustration is a skill I have been working on for a long time, from paper to tablet, allowing me to create visual elements or personal pieces. It from graphic design when it comes to composition and visual principles.',
     active: # Add true to select section
   }
 
