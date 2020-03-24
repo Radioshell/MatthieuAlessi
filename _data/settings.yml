@@ -33,15 +33,15 @@ disqus-identifier: Shortname # Add your shortname for Disqus Comment. For exampl
 # Hero Section
 
 hero:
-  hero-title: Name Name
-  hero-subtitle: Illustration | Test | Test
+  hero-title: Matthieu Alessi
+  hero-subtitle: Graphic Design | Interface Design | Illustration
 
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: "Test Text 1"
+blurb: "Hello & Welcome to my portfolio, this is the place where I present most of my work."
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -104,21 +104,21 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Graphic Design,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Graphic design is present in most of my realisations, may it encompasses visual design or more in-depth Branding. I apply Graphic Design principles on a daily basis and aim to link them to other visual fields.',
     active: # Add true to select section
   }
 - {
-    name: UX Design,
+    name: UX/UI Design,
     icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'While I have more experience on the visual techniques and uses of interfaces, I want to learn and practice the conception of user experiences (UX) in order to know more about how people operate and be able to optimize designs. ',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Art & Illustration,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Illustration is a skill I have been working on for a very long time, allowing me to create visual elements, or personal pieces. My illustration-oriented style benefits from graphic design when it comes to composition and visual principles.',
     active: # Add true to select section
   }
 
