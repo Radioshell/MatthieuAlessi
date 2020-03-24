@@ -105,19 +105,19 @@ services-title: Services
 services:
 - {
     name: Graphic Design,
-    icon: ti-palette,
+    icon: ti-vector,
     description: 'Graphic design is present in most of my realisations, may it encompasses visual design or more in-depth Branding. I apply Graphic Design principles on a daily basis and aim to link them to other visual fields.',
     active: # Add true to select section
   }
 - {
     name: UX/UI Design,
-    icon: ti-vector,
+    icon: ti-panel,
     description: 'While I have more experience on the visual techniques and uses of interfaces, I want to learn and practice the conception of user experiences (UX) in order to know more about how people operate and be able to optimize designs. ',
     active: true # Add true to select section
   }
 - {
     name: Art & Illustration,
-    icon: ti-panel,
+    icon: ti-palette,
     description: 'Illustration is a skill I have been working on for a very long time, from paper to tablet, allowing me to create visual elements or personal pieces. My style benefits from graphic design when it comes to composition and visual principles.',
     active: # Add true to select section
   }
