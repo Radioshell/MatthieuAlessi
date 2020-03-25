@@ -34,6 +34,15 @@ img {
   border: 0;
 }
 
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #7c7c7c;
+    margin: 1em 0;
+    padding: 15px;
+}
+
 a,
 a:hover,
 a:focus {
