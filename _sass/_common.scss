@@ -39,11 +39,14 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #7c7c7c;
-    margin-left: 2em;
-    margin-right: 2em;
-    padding-top: 15px;
+    margin-left: 4em;
+    margin-right: 4em;
+    padding-top: 35px;
 }
-
+@media screen and (max-width: 700px) {
+  margin-left: 2em;
+    margin-right: 2em;
+}
 a,
 a:hover,
 a:focus {
