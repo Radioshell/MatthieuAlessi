@@ -135,6 +135,8 @@ portfolio-btn-name: see more
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "/about"
+    title : "TEST TITLE 2"
+    tags: "test tag"
     
   - image : "assets/images/portfolio/item-2.png"
     url: "/2017/05/26/amazon-increase-income-1.5-million-copy-6/"
@@ -154,6 +156,7 @@ portfolio-label:
 - {
     title : "Interface Design",
     type : "design"
+    
   }
 - {
     title : "Graphic Design",
@@ -264,5 +267,5 @@ testimonial-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-title: Feel free to contact me
+contact-email: matthieu.alessi@gmail.com
