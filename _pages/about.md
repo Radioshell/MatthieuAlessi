@@ -1,18 +1,11 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Matthieu Alessi
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+My name is Matthieu, I am an aspiring Experience Designer with a background in Graphic Design that complete itself with Art and Illustration skills. My goal in Experience Design is to understand people's needs in specific contexts in order to create experiences, interfaces and environments they can interact with. My experience in Graphic Design and Visual Art in general takes care of the aesthetical needs while my own perspective is there for the principles that drive an intention. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I aim to develop a stack of complementary skills that would benefit from each other and to others, and I currently am acquiring some front-end development basics to better understand the bridge between designer and developer that can in some situations be a challenge. On the more personal side I am still working on my drawing and painting skills, both on traditional and digital mediums.
