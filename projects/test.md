@@ -10,7 +10,7 @@ categories : [Graphic Design, Branding]
 ---
 ![post-thumb]({{site.baseurl}}/assets/images/blog/post-1.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
 
-**The St-Eloi Elementary School is a small catholic school with a locally-oriented scope. As such itt doesn't have the means to have a visual identity that stands on its own, despite being a place that stood the test of time with a lot of history and a genuine approach to education.**
+**The St-Eloi Elementary School is a small catholic school with a locally-oriented scope. As such it doesn't have the means to have a visual identity that stands on its own, despite being a place that stood the test of time with a lot of history and a genuine approach to education.**
 
 The aim of this project was to faithfully represent the values of this catholic school, with visual branding as a way to mordernize it and differentiate it from other schools, while still having its purpose at the center. It was important to create an identity rooted in the dimension of primary education, reminding of a place of learning and development where the child is accompanied in its development. The parallel creation of a Christmas card that was made earlier served as a prototype to this branding project and helped to reflect the image of the school. 
 
