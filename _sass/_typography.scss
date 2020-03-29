@@ -50,6 +50,7 @@ h1, .h1{
 h2, .h2{
   font-size: 35px;
   text-align: center;
+  line-height: 1.4;
   @include desktop {
     font-size: 35px;
   }
@@ -68,12 +69,12 @@ h4, .h4{
 h5, .h5{
   font-size: 20px;
   color: #ffffff;
-  line-height: 1.5;
+  line-height: 1.2;
 }
 
 h6, .h6{
   font-size: 14px;
   color: #ffffff;
-  line-height: 1.5;
+  line-height: 1;
 }
 
