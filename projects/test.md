@@ -27,6 +27,6 @@ The parallel creation of a Christmas card served as a prototype to this branding
   </div>
 </div>
 
-After the graphic principles were defined, the choice of colors was quite straightforward. A variation of the primary colors, following through the subject of the geometric shapes. These codes were applied first to the logo, then to a pattern system that could be easily declined on different supports. The combinations of simple shapes and colors bring back to elementary education and emphasize the importance of the individual from an early age.
+<div>After the graphic principles were defined, the choice of colors was quite straightforward. A variation of the primary colors, following through the subject of the geometric shapes. These codes were applied first to the logo, then to a pattern system that could be easily declined on different supports. The combinations of simple shapes and colors bring back to elementary education and emphasize the importance of the individual from an early age.</div>
 
 ![img3]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="mx-auto d-block rounded post-img"}
