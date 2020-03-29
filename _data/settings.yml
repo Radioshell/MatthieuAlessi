@@ -232,12 +232,12 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
 
-    - image : "assets/images/portfolio/item-1.png"
-    title : "TEST TITLE 2"
-    tags: "test tag"
+  - image : "assets/images/portfolio/item-1.png"
+    title : "TEST TITLE 23"
+    tags: "test tag2"
     url: "projects/test"
     portfolio-type:
-      - type: "design"
+      - type: "branding"
       - type: "illustration"
       
   - image : "assets/images/portfolio/item-7.png"
