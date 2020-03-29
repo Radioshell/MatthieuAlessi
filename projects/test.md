@@ -14,7 +14,7 @@ categories : [Graphic Design, Branding]
 
 By finding the keywords defining the school, what it represents and stands for, it is possible to synthesize values and aspects to highlight. From these elements, it is possible to start working the school's visual identity with a draft. The parallel creation of a Christmas card served as a prototype to this branding project and helped reflect the image of the school. The basic geometric elements relating to early development, the roots of learning and construction games.
 
-hlight. From these elements, it is possible to start working the school's visual identity with a draft. The parallel creation of a Christmas card served as a prototype to this branding project and helped reflect the image of the school. The basic geometric elements relating to early development, the roots of learning and construction games.
+hlight. From these elements, it is possible to start working the school's visual identity with a draft. The parallel creation of a Christmas card served as a prototype to this branding project and helped reflect the image of the school. The basic geometric elements relating to early development, the roots of learning and construction games.hlight. From these elements, it is possible to start working the school's visual identity with a draft. The parallel creation of a Christmas card served as a prototype to this branding project and helped reflect the image of the school. The basic geometric elements relating to early development, the roots of learning and construction games.
 
 
 > Visually representing values, going from words to visuals.
