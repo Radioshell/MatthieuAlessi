@@ -14,17 +14,9 @@ categories : [Graphic Design, Branding]
 
 By finding the keywords defining the school, what it represents and stands for, it is possible to synthesize values and aspects to highlight. From these elements, it is possible to start working the school's visual identity with a draft. The parallel creation of a Christmas card served as a prototype to this branding project and helped reflect the image of the school. The basic geometric elements relating to early development, the roots of learning and construction games.
 
-<div class="col-sm-6">
+![post-thumb]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}
 
-<img src="/assets/images/blog/post-3.jpg" class="rounded mr-5 mb-4 ml-5">
-
-</div>
-
-<div class="col-sm-6">
-
-<img src="({{site.baseurl}}/assets/images/blog/post-3.jpg)"
-
-</div>
+![post-thumb]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="img-fluid rounded float-right ml-5 mb-4"}
 
 > Visually representing values, going from words to visuals.
 
