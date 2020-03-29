@@ -22,10 +22,10 @@ The parallel creation of a Christmas card served as a prototype to this branding
 
 <row>
   <div>
-    <img src="/assets/images/blog/post-3.jpg" alt="img2" style="width:100%">
+    <img src="/assets/images/blog/post-3.jpg" alt="img2" class="rounded float-left" style="width:50%">
   </div>
   <div>
-    <img src="/assets/images/blog/post-3.jpg" alt="img2" style="width:100%">
+    <img src="/assets/images/blog/post-3.jpg" alt="img2" class="rounded float-left" style="width:50%">
   </div>
 </row>
 
