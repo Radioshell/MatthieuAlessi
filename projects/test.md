@@ -14,12 +14,9 @@ categories : [UI Design, Branding]
 
 By finding the keywords defining the school, what it represents and stands for, it is possible to synthesize values and aspects to highlight. From these elements, it is possible to start working the school's visual identity with a draft. The parallel creation of a Christmas card served as a prototype to this branding project and helped reflect the image of the school. The basic geometric elements relating to early development, the roots of learning and construction games.
 
-![im2]({{site.baseurl}}/assets/images/blog/post-3.jpg)
-![im3]({{site.baseurl}}/assets/images/blog/post-3.jpg)
+![im2]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="img-fluid rounded mr-5 mb-4 ml-5"}
+![im3]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="img-fluid rounded mr-5 mb-4 ml-5"}
 
 > Visually representing values, going from words to visuals.
 
 After the graphic principles were defined, the choice of colors was quite straightforward. A variation of the primary colors, following through the subject of the geometric shapes. These codes were applied first to the logo, then to a pattern system that could be easily declined on different supports. The combinations of simple shapes and colors bring back to elementary education and emphasize the importance of the individual from an early age.
-
-![im4]({{site.baseurl}}/assets/images/blog/post-3.jpg)
-![im5]({{site.baseurl}}/assets/images/blog/post-3.jpg)
