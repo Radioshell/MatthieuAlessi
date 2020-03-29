@@ -8,26 +8,29 @@
 }
 
 blockquote > p {
-  display: inline-block;
-  padding: 10px 20px;
-  background: #190060;
-  border-left: 2px solid $primary-color;
+  display: block; /* inline-block */
+  padding: 15px 20px;
+  background: $primary-color;
+  border-left: 10px solid $secondary-color;
   font-style: italic;
   font-size: 22px;
   line-height: inherit;
+  clear:both;
+  text-align:center;
 }
 
 .content {
   * {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
 
   strong {
-    font-family: $secondary-font;
-    font-size: 22px;
+    font-family: $primary-font;
+    font-size: 18px;
     font-weight: normal;
     color: $gray;
     display: inherit;
     line-height: 1.5;
+    font-weight: 600;
   }
 }
