@@ -20,14 +20,14 @@ The parallel creation of a Christmas card served as a prototype to this branding
 
 ![img1]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="rounded mr-3 my-3"} ![img2]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="rounded ml-3 my-3"}
 
-<row>
+<div>
   <div>
     <img src="/assets/images/blog/post-3.jpg" alt="img2" class="rounded float-left" style="width:50%">
   </div>
   <div>
     <img src="/assets/images/blog/post-3.jpg" alt="img2" class="rounded float-left" style="width:50%">
   </div>
-</row>
+</div>
 
 <div>
 After the graphic principles were defined, the choice of colors was quite straightforward. A variation of the primary colors, following through the subject of the geometric shapes. These codes were applied first to the logo, then to a pattern system that could be easily declined on different supports. The combinations of simple shapes and colors bring back to elementary education and emphasize the importance of the individual from an early age.
