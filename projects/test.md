@@ -18,10 +18,10 @@ The parallel creation of a Christmas card served as a prototype to this branding
 
 > Visually representing values, going from words to visuals.
 
-![img1]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
+![img1]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="img-fluid rounded float-left mr-5 my-5"}
 
-![img2]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="img-fluid rounded float-right mr-5 mb-5 overflow-hidden"}
+![img2]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="img-fluid rounded float-right mr-5 my-5"}
 
 After the graphic principles were defined, the choice of colors was quite straightforward. A variation of the primary colors, following through the subject of the geometric shapes. These codes were applied first to the logo, then to a pattern system that could be easily declined on different supports. The combinations of simple shapes and colors bring back to elementary education and emphasize the importance of the individual from an early age.
 
-![img3]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="mx-auto d-block rounded"}
+![img3]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="mx-auto d-block rounded" :style="width=75%"}
