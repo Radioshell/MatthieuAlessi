@@ -16,13 +16,13 @@ By finding the keywords defining the school, what it represents and stands for, 
 
 <div class="col-sm-6">
 
-![im2]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="rounded mr-5 mb-4 ml-5"}
+<img src="/assets/images/blog/post-3.jpg" class="rounded mr-5 mb-4 ml-5">
 
 </div>
 
 <div class="col-sm-6">
 
-![im3]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="rounded mr-5 mb-4 ml-5"}
+<img src="({{site.baseurl}}/assets/images/blog/post-3.jpg)"
 
 </div>
 
