@@ -12,8 +12,6 @@ categories : [UI Design, Branding]
 
 **The aim of this project was to represent the values of a catholic school with visual branding. It was important that the visual identity therefore brought back to the dimension of primary education, to a place of learning and development where the child is accompanied in its development.**
 
-![im1]({{site.baseurl}}/assets/images/blog/post-1.jpg)
-
 By finding the keywords defining the school, what it represents and stands for, it is possible to synthesize values and aspects to highlight. From these elements, it is possible to start working the school's visual identity with a draft. The parallel creation of a Christmas card served as a prototype to this branding project and helped reflect the image of the school. The basic geometric elements relating to early development, the roots of learning and construction games.
 
 ![im2]({{site.baseurl}}/assets/images/blog/post-3.jpg)
