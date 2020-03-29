@@ -16,7 +16,12 @@ By finding the keywords defining the school, and what it represents and stands f
 
 The parallel creation of a Christmas card served as a prototype to this branding project and helped reflect the image of the school. The basic geometric elements relating to early development, the roots of learning and construction games.
 
-
 > Visually representing values, going from words to visuals.
 
+![post-thumb]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
+
+![post-thumb]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="img-fluid rounded float-right mr-5 mb-5 overflow-hidden"}
+
 After the graphic principles were defined, the choice of colors was quite straightforward. A variation of the primary colors, following through the subject of the geometric shapes. These codes were applied first to the logo, then to a pattern system that could be easily declined on different supports. The combinations of simple shapes and colors bring back to elementary education and emphasize the importance of the individual from an early age.
+
+![post-thumb]({{site.baseurl}}/assets/images/blog/post-3.jpg){:class="mx-auto d-block rounded"}
