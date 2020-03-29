@@ -49,6 +49,7 @@ h1, .h1{
 }
 h2, .h2{
   font-size: 35px;
+  text-align: center;
   @include desktop {
     font-size: 35px;
   }
