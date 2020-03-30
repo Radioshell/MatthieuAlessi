@@ -3,9 +3,8 @@ layout: post
 title:  École Saint-Éloi
 subtitle : Create a visual identity for a local catholic school
 date:   2018
-image:  post-3.jpg
-author: uixgeek
-tags:   [UX design, Graphic design]
+image:  item-1.jpg
+tags:   [Graphic Design, Branding]
 categories : [Graphic Design, Branding]
 ---
 ![post-thumb]({{site.baseurl}}/projects/images/steloi/thumb-1.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
