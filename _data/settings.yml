@@ -155,12 +155,12 @@ portfolio-home-items:
 portfolio-label:
 - {
     title : "Interface Design",
-    type : "design"
+    type : "interface"
     
   }
 - {
     title : "Graphic Design",
-    type : "branding"
+    type : "graphic design"
   }
 - {
     title : "Illustration",
@@ -241,10 +241,10 @@ portfolio-items:
   - image : "projects/images/steloi/item-1.jpg"
     title : "Saint-Éloi School"
     tags: "Graphic Design - Branding"
-    url: "projects/test"
+    url: "projects/st-eloi-school"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
+      - type: "graphic design"
+     
       
       
 #-------------------------------
