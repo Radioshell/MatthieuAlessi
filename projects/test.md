@@ -2,7 +2,7 @@
 layout: post
 title:  École Saint-Éloi
 subtitle : Create a visual identity for a local catholic school
-date:   2017-05-26 13:05:55 +0300
+date:   2018
 image:  post-3.jpg
 author: uixgeek
 tags:   [UX design, Graphic design]
