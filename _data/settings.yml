@@ -168,14 +168,7 @@ portfolio-label:
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    title : "TEST TITLE 2"
-    tags: "test tag"
-    url: "projects/test"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      
+
   - image : "assets/images/portfolio/item-2.png"
     title : "TEST TITLE"
     url: "projects/test"
@@ -244,6 +237,15 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "illustration"
+      
+  - image : "projects/images/steloi/item-1.jpg"
+    title : "Saint-Éloi School"
+    tags: "Graphic Design - Branding"
+    url: "projects/test"
+    portfolio-type:
+      - type: "design"
+      - type: "illustration"
+      
       
 #-------------------------------
 # Testimonials Section
