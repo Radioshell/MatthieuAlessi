@@ -28,5 +28,7 @@ By finding the keywords defining the school, what it represents and stands for, 
 After the graphic principles were defined, they were applied to a logo, then to a pattern system that could be easily declined on different supports. The combinations of simple shapes and colors bring back to elementary education and emphasize the importance of the individual from an early age.
 </div>
 
-![img3]({{site.baseurl}}/projects/images/steloi/img-3.jpg){:class="mx-auto d-block rounded post-img"}
+![img3]({{site.baseurl}}/projects/images/steloi/img-4.jpg){:class="mx-auto d-block rounded post-img"}
+
+![img4]({{site.baseurl}}/projects/images/steloi/img-3.jpg){:class="mx-auto d-block rounded post-img"}
 
