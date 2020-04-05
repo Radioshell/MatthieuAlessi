@@ -29,6 +29,7 @@ title: Portfolio
 	<a class="hover-overlay" href="{{ item.url }}">
             <div class="hover-content">
               <a class="btn btn-light btn-sm" href="{{ item.url }}">view project</a>
+		    <h5 class="font-secondary" style="padding-top:10px" href="{{ item.url }}" >{{ item.title | escape }}</h5><p>{{ item.tags }}</p>
             </div>
           </a>
         </div>
