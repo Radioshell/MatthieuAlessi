@@ -12,8 +12,7 @@ categories : [Interface Design, UI]
 
 ![img1]({{site.baseurl}}/projects/images/wirecast/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
-**With more than half the U.S. population listening to podcasts and an age bracket in the 20-30 years old, podcasts, while becoming increasingly popular, don't have the same digital backup than more traditional medias like music and videos have.
-**
+**With more than half the U.S. population listening to podcasts and an age bracket in the 20-30 years old, podcasts, while becoming increasingly popular, don't have the same digital backup than more traditional medias like music and videos have.**
 
 Podcasts applications aren’t typically elegant, but I realized that to truly engage users, it needed a distinctive identity and an appeal while retaining functionality. The aim was to enhance and complete the experience of podcast-listening.
 Wirecast would be a solution of reference, aiming to offer greater ergonomy and interactivity than the several more dispatched and independent applications.
