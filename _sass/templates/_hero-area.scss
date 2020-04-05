@@ -1,15 +1,11 @@
 .hero-area {
   padding: 20rem 0 20rem 0;
   position: relative;
-  @include tablet {
+  @include desktop {
     padding: 7rem 0 7rem 0;
     overflow: hidden;
   }
-  @media (max-width: 990px) {
-    .hero-area {
-        padding:9rem 0 9rem 0;
-        overflow: hidden
-    }
+ }
     
   h1{
     position: relative;
