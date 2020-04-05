@@ -23,14 +23,14 @@ title: Portfolio
     <div class="row shuffle-wrapper">
       {% for item in site.data.settings.portfolio-items %}
       <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[{% for portfolio in item.portfolio-type %}{% if forloop.first == true %}{% else %},{% endif %}&quot;{{ portfolio.type }}&quot;{% endfor %}]">
-        <a class="portfolio-item__link" href="{{ item.url }}">
+        
 	   <div class="position-relative rounded hover-wrapper">
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
-		   <a class="hover-overlay" href="{{ item.url }}"></a>
+	<a class="hover-overlay" href="{{ item.url }}">
             <div class="hover-content">
               <a class="btn btn-light btn-sm" href="{{ item.url }}">view project</a>
             </div>
-          </div>
+          </a>
         </div>
       </div>
       {% endfor %}
