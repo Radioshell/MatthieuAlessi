@@ -30,8 +30,7 @@ title: Portfolio
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div class="hover-content">
-              <a class="btn btn-light btn-sm" style="padding-bottom:10px" href="{{ item.url }}">view project</a>
-              <h5 class="font-secondary" style="padding-top:10px" href="{{ item.url }}" >{{ item.title | escape }}</h5>
+              <a class="btn btn-light btn-sm" style="padding-bottom:10px" href="{{ item.url }}">{{ item.title | escape }}</a>
 		    <p>{{ item.tags }}</p>
             </div>
           </div>
