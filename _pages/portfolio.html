@@ -38,6 +38,23 @@ title: Portfolio
 </section>
 <!-- /portfolio -->
 
+
+{% for item in site.data.settings.portfolio-items %}
+  <div class="chapter" data-groups="[{% for portfolio in item.portfolio-type %}{% if forloop.first == true %}{% else %},{% endif %}&quot;{{ portfolio.type }}&quot;{% endfor %}]">>
+    <a href="{{ item.url }}">
+      {% if post.img %} 
+        <img src="{{ site.baseurl }}/{{ item.image }}" alt="{{item.title}}">
+      {% endif %}
+    </a>
+    <a href=""{{ item.url }}">
+      <div class="chapter_inner">
+        <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
+        <h3 class="chapter_title">{{ item.title | escape }}</h3>
+      </div>
+    </a>
+  </div>
+{% endfor %}
+
 <!-- clients
 <section class="section bg-light">
   <div class="container">
