@@ -5,6 +5,12 @@
     padding: 7rem 0 7rem 0;
     overflow: hidden;
   }
+  @media (max-width: 990px) {
+    .hero-area {
+        padding:9rem 0 9rem 0;
+        overflow: hidden
+    }
+    
   h1{
     position: relative;
     z-index: 2;
