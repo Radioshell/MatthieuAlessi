@@ -15,28 +15,33 @@ title: Portfolio
           <label class="btn btn-sm btn-secondary">
             <input type="radio" name="shuffle-filter" value="{{ label.type }}" />{{ label.title }}
           </label>
-          {% endfor %}
+          {% endfor %}	
         </div>
       </div>
     </div>
+	  
+	  </div>
+      </div>
+    </div>
     <div class="row shuffle-wrapper">
-      {% for item in site.data.settings.portfolio-items %}    
-     	<div class="position-relative rounded hover-wrapper">
+      {% for item in site.data.settings.portfolio-items %}
+      <div class="col-lg-4 col-6 mb-4 shuffle-item" data-groups="[{% for portfolio in item.portfolio-type %}{% if forloop.first == true %}{% else %},{% endif %}&quot;{{ portfolio.type }}&quot;{% endfor %}]">
+        <div class="position-relative rounded hover-wrapper">
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
-          <div class="hover-overlay" href="{{ item.url }}">
-            <div class="hover-content btn" href="{{ item.url }}">
+          <div class="hover-overlay">
+            <div class="hover-content">
               <a class="btn btn-light btn-sm" style="padding-bottom:10px" href="{{ item.url }}">view project</a>
               <h5 class="font-secondary" style="padding-top:10px" href="{{ item.url }}" >{{ item.title | escape }}</h5>
 		    <p>{{ item.tags }}</p>
-
             </div>
+          </div>
+        </div>
       </div>
-	</div>
-	</div>
       {% endfor %}
     </div>
   </div>
 </section>
+
 <!-- /portfolio-- 
 
 <section class="portfolio">
@@ -86,16 +91,6 @@ title: Portfolio
 
 </section>
 
-<!-- clients
-<section class="section bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">My Clients</h2>
-      </div>
-    </div>
-    {% include client-slider.html %}
-  </div>
-</section>
-<!-- /clients -->
+
+
 
