@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 ---
-<!-- portfolio 
+<!-- portfolio -->
 <section class="section-portfolio">
   <div class="container">
     <div class="row mb-5">
@@ -56,7 +56,7 @@ title: Portfolio
       </div>
     </div>
 		
-	<div class="content-wrap portfolio-wrap">
+	<div class="content-wrap portfolio-wrap row shuffle-wrapper">
     {% for item in site.data.settings.portfolio-items %}
 	<div class="portfolio-item" data-groups="[{% for portfolio in item.portfolio-type %}{% if forloop.first == true %}{% else %},{% endif %}&quot;{{ portfolio.type }}&quot;{% endfor %}]">
     
