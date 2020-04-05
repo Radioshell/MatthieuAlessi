@@ -39,6 +39,23 @@ title: Portfolio
 <!-- /portfolio--> 
 
 <section class="portfolio">
+	
+	<div class="container">
+    <div class="row mb-5">
+      <div class="col-12">
+        <div class="btn btn-group-toggle justify-content-center d-flex" data-toggle="buttons">
+          <label class="btn btn-sm btn-secondary active">
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />All
+          </label>
+          {% for label in site.data.settings.portfolio-label %}
+          <label class="btn btn-sm btn-secondary">
+            <input type="radio" name="shuffle-filter" value="{{ label.type }}" />{{ label.title }}
+          </label>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+		
 	<div class="content-wrap portfolio-wrap">
     {% for item in site.data.settings.portfolio-items %}
 	<div class="portfolio-item" data-groups="[{% for portfolio in item.portfolio-type %}{% if forloop.first == true %}{% else %},{% endif %}&quot;{{ portfolio.type }}&quot;{% endfor %}]">
