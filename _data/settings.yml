@@ -234,12 +234,12 @@ portfolio-items:
       - type: "branding"
       - type: "illustration"
       
-  - image : "projects/images/steloi/item-1.jpg"
+  - image : "projects/images/wirecast/item-1.jpg"
     title : "Wirecast"
     tags: "Interface Design"
     url: "projects/wirecast"
     portfolio-type:
-      - type: "graphic design"
+      - type: "interface"
       
   - image : "projects/images/steloi/item-1.jpg"
     title : "Saint-Éloi School"
