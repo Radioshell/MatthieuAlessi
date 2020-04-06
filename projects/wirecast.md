@@ -14,7 +14,7 @@ categories : [Interface Design, UI]
 Podcasts applications aren’t typically elegant, but I realized that to truly engage users, it needed a distinctive identity and an appeal while retaining functionality. The aim was to enhance and complete the experience of podcast-listening.
 Wirecast would be a solution of reference, aiming to offer greater ergonomy and interactivity than the several more dispatched and independent applications.
 
-![img-thumb]({{site.baseurl}}/projects/images/wirecast/thumb-1.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
+![img-thumb]({{site.baseurl}}/projects/images/wirecast/img-thumb.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
 
 After researches about the podcast audience and the evolution of this media, it turned out 94% of podcasts listeners were active on social media, and that there were many contexts in the listening of a podcast, from commuting to relaxing, even while working. The potential users became pretty obvious and were manifested into personas.
 
