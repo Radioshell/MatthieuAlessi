@@ -221,7 +221,15 @@ portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
     title : "TEST TITLE 23"
     tags: "test tag2"
-    url: "projects/test"
+    url: "projects/wirecast"
+    portfolio-type:
+      - type: "branding"
+      - type: "illustration"
+  
+  - image : "assets/images/portfolio/item-1.png"
+    title : "TEST TITLE 23"
+    tags: "test tag2"
+    url: "projects/st-eloi-school"
     portfolio-type:
       - type: "branding"
       - type: "illustration"
