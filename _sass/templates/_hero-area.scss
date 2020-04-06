@@ -3,11 +3,12 @@
   position: relative;
   @include desktop-lg {
     padding: 12rem 0 12rem 0;
+    overflow: hidden;
   @include desktop {
     padding: 10rem 0 6rem 0;
     overflow: hidden;
   }
- 
+ }
  }
     
   h1{
