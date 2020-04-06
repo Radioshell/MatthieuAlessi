@@ -200,14 +200,7 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
+ 
   - image : "assets/images/portfolio/item-7.png"
     url: "projects/test"
     portfolio-type:
@@ -238,7 +231,6 @@ portfolio-items:
     tags: "Interface Design"
     url: "projects/wirecast"
     portfolio-type:
-      - type: "interface"
       - type: "graphic design"
       
   - image : "projects/images/steloi/item-1.jpg"
