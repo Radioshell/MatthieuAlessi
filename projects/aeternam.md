@@ -25,7 +25,7 @@ To legitimize the storytelling, we named the brand but also the product. We used
 
 Illustrations have been designed for the packaging and for the logos. The small colour accents allow for a range of variations. The medium of the illustration allows to tell the story of the Beer Philosophale in a visual way.
 
-![img4]({{site.baseurl}}/projects/images/wirecast/img-4.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
+![img4]({{site.baseurl}}/projects/images/aeternam/img-4.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
 <h3 class style="text-align:left; margin-left:30px">Storyboard Prototype</h3>
 
