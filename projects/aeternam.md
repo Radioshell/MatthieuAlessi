@@ -9,7 +9,7 @@ categories : [Graphic Design, Branding, Illustration]
 ---
 ![img1]({{site.baseurl}}/projects/images/aeternam/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
-**Alcohol-free beer is a product that is more difficult to communicate than a classic beer because of a different perception by the public. It seems like an entire world away with completely different targets. Aeternam is a fictional brand who aims in retaking the codes of traditional alcohol and beer without seeming dishonest. **
+**Alcohol-free beer is a product that is more difficult to communicate than a classic beer because of a different perception by the public. It seems like an entire world away with completely different targets. Aeternam is a fictional brand who aims in retaking the codes of traditional alcohol and beer without seeming dishonest.**
 
 We hoped here to make non-alcohol beer appealing to a larger audience, and to evoke curiosity through the brand alone. The approach was therefore to counter the alcohol-free beer codes and to rely on those of conventional beer. This choice is justified by mythical and epic storytelling, the true recipe for alcohol-free beer; lost in history before finally being found by the Templar Order in the quest for the Holy Grail.
 
