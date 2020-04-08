@@ -229,7 +229,7 @@ portfolio-items:
   - image : "projects/images/aeternam/item-1.jpg"
     title : "Aeternam"
     tags: "Branding - Illustration"
-    url: "projects/st-eloi-school"
+    url: "projects/aeternam"
     portfolio-type:
       - type: "graphic design"
       - type: "illustration"
