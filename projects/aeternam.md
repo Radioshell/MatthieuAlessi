@@ -27,7 +27,7 @@ Illustrations have been designed for the packaging and for the logos. The small 
 
 ![img4]({{site.baseurl}}/projects/images/wirecast/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
-<h3 class style="text-align:left">Storyboard Prototype</h3>
+<h3 class style="text-align:left; margin-left:30px">Storyboard Prototype</h3>
 A storyboard presenting the beer's story was also designed as part of a promotional video prototype. The project was an interesting way of subverting codes in order to brand a niche product.
 
 ![img5]({{site.baseurl}}/projects/images/aeternam/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
