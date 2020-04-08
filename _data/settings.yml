@@ -226,12 +226,12 @@ portfolio-items:
       - type: "branding"
       - type: "illustration"
   
-  - image : "assets/images/portfolio/item-1.png"
-    title : "TEST TITLE 23"
-    tags: "test tag2"
+  - image : "projects/images/aeternam/item-1.png"
+    title : "Aeternam"
+    tags: "Branding - Illustration"
     url: "projects/st-eloi-school"
     portfolio-type:
-      - type: "branding"
+      - type: "graphic design"
       - type: "illustration"
       
   - image : "projects/images/wirecast/item-1.jpg"
