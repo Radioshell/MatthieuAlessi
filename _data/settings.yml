@@ -218,7 +218,7 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
 
-  - image : "projects/images/musical-player/item-1.png"
+  - image : "projects/images/musical-player/item-1.jpg"
     title : "Music Player UI"
     tags: "UI Design"
     url: "projects/music-player-UI"
