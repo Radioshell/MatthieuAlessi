@@ -218,13 +218,12 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
 
-  - image : "assets/images/portfolio/item-1.png"
-    title : "TEST TITLE 23"
-    tags: "test tag2"
-    url: "projects/wirecast"
+  - image : "projects/images/musical-player/item-1.png"
+    title : "Music Player UI"
+    tags: "UI Design"
+    url: "projects/music-player-UI"
     portfolio-type:
-      - type: "branding"
-      - type: "illustration"
+      - type: "interface"
   
   - image : "projects/images/aeternam/item-1.jpg"
     title : "Aeternam"
