@@ -17,7 +17,7 @@ The aim of this project was to faithfully represent the values of this catholic 
 
 > Visually representing values, going from words to visuals.
 
-<div style="clear:both" class="paragraph">
+<div style="clear:both; max-width:75%" class="paragraph">
 By finding the keywords defining the school, what it represents and stands for, we are able to synthesize its values and aspects to highlight. From these words and definitions, it became possible to start working the school's visual identity with a draft. To drive home the message and the purpose of the school, I went with basic geometric elements and flat primary colors, relating to early development, the roots of learning and construction games. 
 </div>
 
