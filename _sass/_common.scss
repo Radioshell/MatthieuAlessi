@@ -379,3 +379,15 @@ textarea.form-control{
         font-size:19px
     }
 }
+
+
+.portfolio-col-img {
+  width:45%; float:left; padding:5px
+}
+
+@media screen and (max-width: 800px) {
+  .portfolio-col-img {
+    width: 100%;
+    
+  }
+}
