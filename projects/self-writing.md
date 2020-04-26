@@ -14,5 +14,11 @@ categories : [UI Design]
 
 <div style="clear:both; max-width:75%" class="paragraph">It was supposed to be a more fleshed out and accurate design, but it has been put on hold for a while. The mock-ups here follow the steps from the homepage to the writing stage, as well as the search option. </div>
 
-![img2]({{site.baseurl}}/projects/images/self-writing/img-2.jpg){:class="mx-auto d-block rounded post-img"}
 
+![img2]({{site.baseurl}}/projects/images/self-writing/img-2.jpg){:class="mx-auto d-block rounded post-img" style="width:50%"}
+
+![img3]({{site.baseurl}}/projects/images/self-writing/img-3.jpg){:class="mx-auto d-block rounded post-img" style="width:50%"}
+
+![img4]({{site.baseurl}}/projects/images/self-writing/img-4.jpg){:class="mx-auto d-block rounded post-img"}
+
+![img5]({{site.baseurl}}/projects/images/self-writing/img-5.jpg){:class="mx-auto d-block rounded post-img"}
