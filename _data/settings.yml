@@ -225,6 +225,13 @@ portfolio-items:
     portfolio-type:
       - type: "interface"
   
+  - image : "projects/images/tiles/item-1.jpg"
+    title : "Tiles Mailbox"
+    tags: "UI Design"
+    url: "projects/tiles"
+    portfolio-type:
+      - type: "interface"
+  
   - image : "projects/images/aeternam/item-1.jpg"
     title : "Aeternam"
     tags: "Branding - Illustration"
