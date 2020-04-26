@@ -217,6 +217,13 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "illustration"
+      
+  - image : "projects/images/self-writing/item-1.jpg"
+    title : "Self-Writing Program"
+    tags: "Interface Design"
+    url: "projects/self-writing"
+    portfolio-type:
+      - type: "interface"
 
   - image : "projects/images/musical-player/item-1.jpg"
     title : "Music Player UI"
