@@ -17,8 +17,8 @@ categories : [UI Design]
 
 ![img2]({{site.baseurl}}/projects/images/self-writing/img-2.jpg){:class="mx-auto d-block rounded post-img" style="width:50%; float:left; padding:5px"}
 
-![img3]({{site.baseurl}}/projects/images/self-writing/img-3.jpg){:class="mx-auto d-block rounded post-img" style="width:50%; float:left; padding:5px"}
+![img3]({{site.baseurl}}/projects/images/self-writing/img-3.jpg){:class="mx-auto d-block rounded post-img" style="width:45%; float:left; padding:10px"}
 
-![img4]({{site.baseurl}}/projects/images/self-writing/img-4.jpg){:class="mx-auto d-block rounded post-img"}
+![img4]({{site.baseurl}}/projects/images/self-writing/img-4.jpg){:class="mx-auto d-block rounded post-img" style="width:45%; float:left; padding:10px"}
 
-![img5]({{site.baseurl}}/projects/images/self-writing/img-5.jpg){:class="mx-auto d-block rounded post-img"}
+![img5]({{site.baseurl}}/projects/images/self-writing/img-5.jpg){:class="mx-auto d-block rounded post-img" style="width:45%; float:left; padding:10px"}
