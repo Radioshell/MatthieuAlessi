@@ -221,7 +221,7 @@ portfolio-items:
   - image : "projects/images/spartan-race-logo/item-1.jpg"
     title : "Spartan Race Logo Redesign"
     tags: "Graphic Design - Logo Design"
-    url: "projects/spartan-race-logo"
+    url: "projects/self-writing"
     portfolio-type:
       - type: "graphic design"   
       
