@@ -218,6 +218,13 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
       
+ - image : "projects/images/spartan-race-logo/item-1.jpg"
+    title : "Spartan Race Logo Redesign"
+    tags: "Graohic Design"
+    url: "projects/spartan-race-logo"
+    portfolio-type:
+      - type: "graphic design"
+      
   - image : "projects/images/self-writing/item-1.jpg"
     title : "Self-Writing Program"
     tags: "Interface Design"
