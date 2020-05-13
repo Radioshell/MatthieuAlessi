@@ -32,6 +32,37 @@
   }
 }
 
+.btn-custom {
+  background: $none;
+  color: $white;
+  font-size: 15px;
+  font-family: $tertiary-font;
+  text-transform: uppercase;
+  padding: 10px 30px;
+  margin-top: 15px;
+  border-style: solid;
+  border-width: 2px;
+  font-weight: 500;
+  border: 0;
+  position: relative;
+  z-index: 1;
+  transition: .2s ease;
+
+  &:active {
+    background: lighten($color: $secondary-color, $amount: 10) !important;
+  }
+
+  &:hover {
+    background: lighten($color: $secondary-color, $amount: 10);
+  }
+
+  &.focus,
+  &.active {
+    background: lighten($color: $secondary-color, $amount: 10) !important;
+    box-shadow: none !important;
+  }
+}
+
 .btn-primary {
   background: $secondary-color;
   color: $white;
