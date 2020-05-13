@@ -35,7 +35,7 @@
 .btn-custom {
   background-color: none;
   color: $white;
-  font-size: 15px;
+  font-size: 13px;
   font-family: $tertiary-font;
   text-transform: uppercase;
   padding: 10px 30px;
@@ -47,9 +47,10 @@
   position: relative;
   z-index: 1;
   transition: .2s ease;
+  border-radius:0px;
 
   &:active {
-    background: lighten($color: $secondary-color, $amount: 10) !important;
+    background: lighten($color: $white, $amount: 10) !important;
   }
 
   &:hover {
