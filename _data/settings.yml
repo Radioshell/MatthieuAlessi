@@ -218,12 +218,19 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
    
-  - image : "projects/images/spartan-race-logo/item-1.jpg"
+  - image : "projects/images/morgentime/item-1.jpg"
+    title : "MorgenTime"
+    tags: "Interface Design"
+    url: "projects/morgentime"
+    portfolio-type:
+      - type: "graphic design"
+      
+    - image : "projects/images/spartan-race-logo/item-1.jpg"
     title : "Spartan Race Logo Redesign"
     tags: "Graphic Design - Logo Design"
     url: "projects/spartan-race-logo"
     portfolio-type:
-      - type: "graphic design"   
+      - type: "graphic design"
       
   - image : "projects/images/self-writing/item-1.jpg"
     title : "Self-Writing Program"
