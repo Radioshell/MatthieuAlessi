@@ -96,24 +96,31 @@
 .btn-secondary {
   background: transparent;
   color: $white;
+  font-size: 13px;
+  font-family: $tertiary-font;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1px;
 
   &:active {
-    background: lighten($color: $secondary-color, $amount: 10) !important;
+    background-color: $secondary-color;
+    border-color: $secondary-color;
     color: $white;
   }
 
   &:hover {
-    background: $primary-color;
+    background-color: $secondary-color;
+    border-color: $secondary-color;
     color: $white;
-    outline : $secondary-color soild 5px;
     
   
   }
 
   &.focus,
   &.active {
-    background: lighten($color: $secondary-color, $amount: 10) !important;
-    box-shadow: none !important;
+    background-color: $secondary-color;
+    border-color: $secondary-color;
+    color: $white;
   }
 }
 
