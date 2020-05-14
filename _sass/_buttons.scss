@@ -94,8 +94,20 @@
 }
 
 .btn-portfolio {
-  background: transparent;
   color: $white;
+  font-size: 13px;
+  font-family: $tertiary-font;
+  text-transform: uppercase;
+  border-radius: 0px;
+  border-style: solid;
+  border-width: 0px;
+  font-weight: 700;
+  position: relative;
+  letter-spacing: 1px;
+  z-index: 1;
+  transition: .2s ease;
+  background: transparent;
+  
 
   &:active {
     background: $primary-color;
