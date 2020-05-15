@@ -9,7 +9,9 @@ categories : [Interface Design, UI]
 ---
 ![img1]({{site.baseurl}}/projects/images/tiles/img-4.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
-**The mailbox has been ingrained in mids for years, its interactivity hasn't really changed besides new functionalities appearing in order to sort them ans search them directly in the mailbox.**
+<div style="clear:both; max-width:75%">
+
+**The mailbox has been ingrained in mids for years, its interactivity hasn't really changed besides new functionalities appearing in order to sort them ans search them directly in the mailbox.**</div>
 
 The aim of this project was to find an alternative way of representing the mail, and by extension the mailbox, to improve on its interactivity without breaking the existing perception of it. To have an idea of the very way a mailbox is used and perceived, I needed to define precisely who this service would be intended for. It would mainly concerns mailbox users who need to optimize their use, or more novice users who need a more visually-oriented interface.
 
