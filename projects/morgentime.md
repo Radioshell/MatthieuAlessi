@@ -9,13 +9,15 @@ categories : [Graphic Design, Branding]
 ---
 ![post-thumb]({{site.baseurl}}/projects/images/steloi/thumb-1.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
 
-**The St-Eloi Elementary School is a small catholic school with a locally-oriented scope. As such it doesn't have the means to have a visual identity that stands on its own, despite being a place that stood the test of time with a lot of history and a genuine approach to education.**
+**Information overload is a problem of today directly related to modernity. It can be difficult to find what one is looking for in a sea of articles, videos and images that may not be relevant to what an user seeks. Readers usually seek to learn about current events, whether general or specific to their interests, a good platform should allow them to find topics for conversation, learn or simply take care of themselves. Information doesnt have to be a burden, but it still needs to be handled responsibly.**
 
-The aim of this project was to faithfully represent the values of this catholic school, with visual branding as a way to mordernize and differentiate it from other schools, while still having its purpose at the center. It was important to create an identity rooted in the dimension of primary education, reminding of a place of learning and development. The parallel creation of a Christmas made earlier served as a prototype to this branding project and helped to reflect the image of the school. 
+This personal project aims to design a modular interface for a news feed. Its purpose is to give agency to the user in curating his flow of information and not to be encumbered by noise, thanks to a fully customizable "newspaper" and a feed that adapt to the user's manipulation.
+
+It was important to define a target to know how a potential user would operate. Then it became easier to find out how this target discovers information. I defined the target as someone who is able with modern technologies and thus more inclined to be exposed to many forms of media. Case scenarios have also been made to better contextualize the project and understand the process involved.
 
 ![img1]({{site.baseurl}}/projects/images/steloi/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
-> Visually representing values, going from words to visuals.
+> Giving agency and thus responsibility in the consumption of information media.
 
 <div style="clear:both; max-width:75%" class="paragraph">
 By finding the keywords defining the school, what it represents and stands for, we are able to synthesize its values and aspects to highlight. From these words and definitions, it became possible to start working the school's visual identity with a draft. To drive home the message and the purpose of the school, I went with basic geometric elements and flat primary colors, relating to early development, the roots of learning and construction games. 
