@@ -20,20 +20,20 @@ It was important to define a target to know how a potential user would operate. 
 > Giving agency and thus responsibility in the consumption of information media.
 
 <div class="row">
-<div class="col-md-4 mb-4 mb-md-0">
+<div class="col-md-6 mb-6 mb-md-0">
         <div class="card shadow">
           <div class="card-body bg-primary text-center px-4 py-5">
             <h4 class="mb-4">title</h4>
-            <p>text description</p>
+            <p>e words and definitions, it became possible to start working the school's visual identity with a draft. To drive home the message and the pur</p>
           </div>
         </div>
       </div>
       
- <div class="col-md-4 mb-4 mb-md-0">
+ <div class="col-md-6 mb-6 mb-md-0">
         <div class="card shadow">
           <div class="card-body bg-primary text-center px-4 py-5">
             <h4 class="mb-4">title</h4>
-            <p>text description</p>
+            <p>e words and definitions, it became possible to start working the school's visual identity with a draft. To drive home the message and the pur</p>
           </div>
         </div>
       </div>
