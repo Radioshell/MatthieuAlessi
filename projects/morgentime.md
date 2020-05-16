@@ -19,6 +19,7 @@ It was important to define a target to know how a potential user would operate. 
 <div class="col-md-6 mb-6 mb-md-0">
         <div class="card shadow">
           <div class="card-body bg-primary text-center px-4 py-5" style="margin-bottom:0">
+                   <i class="ti-mobile icon mb-5 d-inline-block text-title" style="color: $text-title"></i>
             <h4 class="mb-4">Smartphone</h4>
             <p>The smartphone is almost ubiquitous and the most widely use in terms of demographic and time spent. It is a mandatory design step for every service.</p>
           </div>
@@ -28,6 +29,7 @@ It was important to define a target to know how a potential user would operate. 
  <div class="col-md-6 mb-6 mb-md-0">
         <div class="card shadow">
           <div class="card-body bg-primary text-center px-4 py-5" style="margin-bottom:0">
+                   <i class="ti-tablet icon mb-5 d-inline-block text-title" style="color: $text-title"></i>
             <h4 class="mb-4">Tablet</h4>
             <p>The tablet allow for more comfortable situations and usually longer periods of use. The wider screen can display more information.</p>
           </div>
