@@ -19,6 +19,26 @@ It was important to define a target to know how a potential user would operate. 
 
 > Giving agency and thus responsibility in the consumption of information media.
 
+<div class="col-md-4 mb-4 mb-md-0">
+        <div class="card shadow">
+          <div class="card-body bg-primary text-center px-4 py-5">
+            <i class="{{ service.icon }} icon mb-5 d-inline-block text-title" style="color: $text-title"></i>
+            <h4 class="mb-4">title</h4>
+            <p>text description</p>
+          </div>
+        </div>
+      </div>
+      
+ <div class="col-md-4 mb-4 mb-md-0">
+        <div class="card shadow">
+          <div class="card-body bg-primary text-center px-4 py-5">
+            <i class="{{ service.icon }} icon mb-5 d-inline-block text-title" style="color: $text-title"></i>
+            <h4 class="mb-4">title</h4>
+            <p>text description</p>
+          </div>
+        </div>
+      </div>
+      
 <div style="clear:both; max-width:75%" class="paragraph">
 By finding the keywords defining the school, what it represents and stands for, we are able to synthesize its values and aspects to highlight. From these words and definitions, it became possible to start working the school's visual identity with a draft. To drive home the message and the purpose of the school, I went with basic geometric elements and flat primary colors, relating to early development, the roots of learning and construction games. 
 </div>
