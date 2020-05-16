@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  MorgenTime
-subtitle : Create a visual identity for a local catholic school
+subtitle : Giving users the agency to curate information
 date:   2018
 image:  item-1.jpg
 tags:   [Graphic Design, Branding]
 categories : [Graphic Design, Branding]
 ---
-![post-thumb]({{site.baseurl}}/projects/images/steloi/thumb-1.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
+![post-thumb]({{site.baseurl}}/projects/images/morgentime/thumb-1.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
 
 **Information overload is a problem of today directly related to modernity. It can be difficult to find what one is looking for in a sea of articles, videos and images that may not be relevant to what an user seeks. Readers usually seek to learn about current events, whether general or specific to their interests, a good platform should allow them to find topics for conversation, learn or simply take care of themselves. Information doesnt have to be a burden, but it still needs to be handled responsibly.**
 
@@ -37,23 +37,27 @@ It was important to define a target to know how a potential user would operate. 
       </div>
       </div>
 
-![img1]({{site.baseurl}}/projects/images/steloi/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
+![img1]({{site.baseurl}}/projects/images/morgentime/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
 > Giving agency and thus responsibility in the consumption of information media.
-
-
-      
+  
 <div style="clear:both; max-width:75%" class="paragraph">
-By finding the keywords defining the school, what it represents and stands for, we are able to synthesize its values and aspects to highlight. From these words and definitions, it became possible to start working the school's visual identity with a draft. To drive home the message and the purpose of the school, I went with basic geometric elements and flat primary colors, relating to early development, the roots of learning and construction games. 
+Each article is represented as a block, eventually resulting as a grid. The goal is to keep a structure similar to a classic journal and to allow a smooth navigation because of the use of timeless ergonomic affordances.        
+At launch hosted, a brief retrospective of current relevant articles that may be of interest are shown to the user. This allows them to quick access to the content they are interested in withoutspending unecessary time. The block extends to show the article's content.     
 </div>
 
-![img2]({{site.baseurl}}/projects/images/steloi/img-2.jpg){:class="mx-auto d-block rounded post-img"}
+![img2]({{site.baseurl}}/projects/images/morgentime/img-2.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
 <div style="clear:both; max-width:75%" class="paragraph">
-After the graphic principles were defined, they were applied to a logo, then to a pattern system that could be easily declined on different supports. The combinations of simple shapes and colors bring back to elementary education and emphasize the importance of the individual from an early age.
+It then arrives at the dashboard of the application. This part offers him a condensed set of articles selected for him and a way allows him to discover new sections. This is the central point of the interface where most features are accessible.     
 </div>
 
-![img3]({{site.baseurl}}/projects/images/steloi/img-3.jpg){:class="mx-auto d-block rounded post-img"}
+![img3]({{site.baseurl}}/projects/images/morgentime/img-3.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
-![img4]({{site.baseurl}}/projects/images/steloi/img-4.jpg){:class="mx-auto d-block rounded post-img"}
+<div style="clear:both; max-width:75%" class="paragraph">
+It is possible to create a jpurnal and customize it by selecting the sources and sections that would appear in it and eventually giving a name. 2 display modes are available, a default mode and a log mode that takes a more traditional layout print-inspired.</div>
+
+![img4]({{site.baseurl}}/projects/images/morgentime/img-4.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
+
+![img5]({{site.baseurl}}/projects/images/morgentime/img-5.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
