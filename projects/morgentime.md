@@ -13,18 +13,14 @@ categories : [Graphic Design, Branding]
 
 This personal project aims to design a modular interface for a news feed. Its purpose is to give agency to the user in curating his flow of information and not to be encumbered by noise, thanks to a fully customizable "newspaper" and a feed that adapt to the user's manipulation.
 
-It was important to define a target to know how a potential user would operate. Then it became easier to find out how this target discovers information. I defined the target as someone who is able with modern technologies and thus more inclined to be exposed to many forms of media. Case scenarios have also been made to better contextualize the project and understand the process involved.
-
-![img1]({{site.baseurl}}/projects/images/steloi/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
-
-> Giving agency and thus responsibility in the consumption of information media.
+It was important to define a target to know how a potential user would operate. Then it became easier to find out how this target discovers information. I defined the target as someone who is able with modern technologies and thus more inclined to be exposed to many forms of media. Case scenarios have also been made to better contextualize the project and understand the process involved. The choice was to adapt the interface to portbale devices to prioritize mobility.
 
 <div class="row">
 <div class="col-md-6 mb-6 mb-md-0">
         <div class="card shadow">
           <div class="card-body bg-primary text-center px-4 py-5" style="margin-bottom:0">
-            <h4 class="mb-4">title</h4>
-            <p>e words and definitions, it became possible to start working the school's visual identity with a draft. To drive home the message and the pur</p>
+            <h4 class="mb-4">Smartphone</h4>
+            <p>The smartphone is almost ubiquitous and the most widely use in terms of demographic and time spent. It is a mandatory design step for every service.</p>
           </div>
         </div>
       </div>
@@ -32,12 +28,18 @@ It was important to define a target to know how a potential user would operate. 
  <div class="col-md-6 mb-6 mb-md-0">
         <div class="card shadow">
           <div class="card-body bg-primary text-center px-4 py-5" style="margin-bottom:0">
-            <h4 class="mb-4">title</h4>
-            <p>e words and definitions, it became possible to start working the school's visual identity with a draft. To drive home the message and the pur</p>
+            <h4 class="mb-4">Tablet</h4>
+            <p>The tablet allow for more comfortable situations and usually longer periods of use. The wider screen can display more information.</p>
           </div>
         </div>
       </div>
       </div>
+
+![img1]({{site.baseurl}}/projects/images/steloi/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
+
+> Giving agency and thus responsibility in the consumption of information media.
+
+
       
 <div style="clear:both; max-width:75%" class="paragraph">
 By finding the keywords defining the school, what it represents and stands for, we are able to synthesize its values and aspects to highlight. From these words and definitions, it became possible to start working the school's visual identity with a draft. To drive home the message and the purpose of the school, I went with basic geometric elements and flat primary colors, relating to early development, the roots of learning and construction games. 
