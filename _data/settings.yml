@@ -106,19 +106,19 @@ services:
 - {
     name: Graphic Design,
     icon: ti-vector,
-    description: 'Graphic design is present in most of my realisations, may it encompasses visual design or more in-depth Branding. I apply Graphic Design principles on a daily basis and aim to link them to other visual fields.',
+    description: 'Graphic design is present in most of my realisations, I apply Graphic Design principles on a daily basis and aim to link them to other visual fields.',
     active: # Add true to select section
   }
 - {
     name: UX/UI Design,
     icon: ti-panel,
-    description: 'While I have more experience on the visual techniques and uses of interfaces, I want to learn and practice the conception of user experiences (UX) in order to know more about how people operate and be able to optimize designs. ',
+    description: 'While I have more experience on the visual techniques and uses of interfaces, I aim to know more about how people operate and be able to optimize experiences and interfaces. ',
     active: true # Add true to select section
   }
 - {
     name: Art & Illustration,
     icon: ti-palette,
-    description: 'Illustration is a skill I have been working on for a long time, from paper to tablet, allowing me to create visual elements or personal pieces. It from graphic design when it comes to composition and visual principles.',
+    description: 'Illustration is a skill I have been working on for a long time, from paper to tablet, allowing me to create visual elements or personal pieces.',
     active: # Add true to select section
   }
 
