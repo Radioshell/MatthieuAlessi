@@ -36,6 +36,7 @@ This personal project aims to design a modular interface for a news feed. Its pu
         </div>
       </div>
       </div>
+      </div>
   
   
   
