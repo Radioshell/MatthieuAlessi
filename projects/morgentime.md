@@ -43,7 +43,9 @@ This personal project aims to design a modular interface for a news feed. Its pu
 
 ![img1]({{site.baseurl}}/projects/images/morgentime/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
+
 > Giving agency and thus responsibility in the consumption of information media.
+
   
 <div style="clear:both; max-width:75%" class="paragraph">
 Each article is represented as a block, eventually resulting as a grid. The goal is to keep a structure similar to a classic journal and to allow a smooth navigation because of the use of timeless ergonomic affordances.        
