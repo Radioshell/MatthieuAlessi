@@ -12,9 +12,11 @@ categories : [Graphic Design, Branding]
 **Information overload is a problem of today directly related to modernity. It can be difficult to find what one is looking for in a sea of articles, videos and images that may not be relevant to what an user seeks. Readers usually seek to learn about current events, whether general or specific to their interests, a good platform should allow them to find topics for conversation, learn or simply take care of themselves. Information doesnt have to be a burden, but it still needs to be handled responsibly.**
 
 This personal project aims to design a modular interface for a news feed. Its purpose is to give agency to the user in curating his flow of information and not to be encumbered by noise, thanks to a fully customizable "newspaper" and a feed that adapt to the user's manipulation.
-It was important to define a target to know how a potential user would operate. Then it became easier to find out how this target discovers information. I defined the target as someone who is able with modern technologies and thus more inclined to be exposed to many forms of media. Case scenarios have also been made to better contextualize the project and understand the process involved. The choice was to adapt the interface to portbale devices to prioritize mobility.
 
-<div class="row">
+
+<div class="section">
+        <div class="container">
+                <div class="row">
 <div class="col-md-6 mb-6 mb-md-0">
         <div class="card shadow">
           <div class="card-body bg-primary text-center px-4 py-5" style="margin-bottom:0">
@@ -35,7 +37,10 @@ It was important to define a target to know how a potential user would operate. 
         </div>
       </div>
       </div>
-
+  </div>
+  </div>
+  
+It was important to define a target to know how a potential user would operate. Then it became easier to find out how this target discovers information. I defined the target as someone who is able with modern technologies and thus more inclined to be exposed to many forms of media. Case scenarios have also been made to better contextualize the project and understand the process involved. The choice was to adapt the interface to portbale devices to prioritize mobility.
 
 ![img1]({{site.baseurl}}/projects/images/morgentime/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
