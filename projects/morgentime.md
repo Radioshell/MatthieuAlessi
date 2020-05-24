@@ -14,7 +14,6 @@ categories : [Graphic Design, Branding]
 This personal project aims to design a modular interface for a news feed. Its purpose is to give agency to the user in curating his flow of information and not to be encumbered by noise, thanks to a fully customizable "newspaper" and a feed that adapt to the user's manipulation.
 
 
-<div class="section">
         <div class="container">
                 <div class="row">
 <div class="col-md-6 mb-6 mb-md-0">
@@ -38,9 +37,9 @@ This personal project aims to design a modular interface for a news feed. Its pu
       </div>
       </div>
   </div>
-  </div>
   
-It was important to define a target to know how a potential user would operate. Then it became easier to find out how this target discovers information. I defined the target as someone who is able with modern technologies and thus more inclined to be exposed to many forms of media. Case scenarios have also been made to better contextualize the project and understand the process involved. The choice was to adapt the interface to portbale devices to prioritize mobility.
+  
+<div style="clear:both; max-width:75%" class="paragraph">It was important to define a target to know how a potential user would operate. Then it became easier to find out how this target discovers information. I defined the target as someone who is able with modern technologies and thus more inclined to be exposed to many forms of media. Case scenarios have also been made to better contextualize the project and understand the process involved. The choice was to adapt the interface to portbale devices to prioritize mobility.</div>
 
 ![img1]({{site.baseurl}}/projects/images/morgentime/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
