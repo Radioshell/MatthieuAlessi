@@ -15,7 +15,7 @@ This personal project aims to design a modular interface for a news feed. Its pu
 
 
 <div class="container">
-      <div class="row">
+      <div class="row" style="clear:both">
 <div class="col-md-6 mb-6 mb-md-0">
         <div class="card shadow">
           <div class="card-body bg-primary text-center px-4 py-5" style="margin-bottom:0">
