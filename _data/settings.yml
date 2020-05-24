@@ -112,7 +112,7 @@ services:
 - {
     name: UX/UI Design,
     icon: ti-panel,
-    description: 'While I have more experience on the visual techniques and uses of interfaces, I aim to know more about how people operate and be able to optimize experiences and interfaces. ',
+    description: 'I have more experience on the UI side of interfaces, I aim to know more about how people operate and be able to optimize those experiences.',
     active: true # Add true to select section
   }
 - {
