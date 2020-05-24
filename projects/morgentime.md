@@ -14,8 +14,8 @@ categories : [Graphic Design, Branding]
 This personal project aims to design a modular interface for a news feed. Its purpose is to give agency to the user in curating his flow of information and not to be encumbered by noise, thanks to a fully customizable "newspaper" and a feed that adapt to the user's manipulation.
 
 
-        <div class="container">
-                <div class="row">
+<div class="container">
+      <div class="row">
 <div class="col-md-6 mb-6 mb-md-0">
         <div class="card shadow">
           <div class="card-body bg-primary text-center px-4 py-5" style="margin-bottom:0">
