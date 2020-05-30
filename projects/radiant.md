@@ -9,9 +9,14 @@ categories : [Graphic Design, Branding]
 ---
 ![post-thumb]({{site.baseurl}}/projects/images/steloi/thumb-1.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
 
-**Radiant is a concept created mainly as an occupation and a personal exercise. With a focus on the identity and how to make a small-scale restaurant modern, there was an interesting premise. The goal : to create the concept of a unique culinary experience that remains approachable and practical. **
 
-The overall direction was towards a cultural perception of futurism that can be traced to science fiction. After defining the intent, the identity needed to be shaped after specific elements without trapping itself in a dated gimmick. To retain a sense of elegance I took from japanese iconography the opportunity to use illustration as a visual branding tool.
+**Radiant is a concept created mainly as an occupation and a personal exercise. With a focus on the identity and how to make a small-scale restaurant modern, there was an interesting premise. The goal: to create the concept of a unique culinary experience that remains approachable and practical. **
+
+User Experience design is about setting the stage and the conditions for positive, useful and in the better cases meaningful experiences and interactions. Those interactions are engaged through the user's senses, from that we can think about the connection between user experience and the culinary fields, beyond the food itself.
+
+The overall direction was towards a cultural perception of futurism that can be traced to science fiction. After defining the intent, the identity needed to be shaped after specific elements without trapping itself in a dated gimmick. To retain a sense of elegance I took from japanese iconography the opportunity to use illustration as a visual branding tool. This influence appears first on the logo, who takes its circular and inviting shape form the rising sun, and in the branding illustration.
+
+
 
 ![img1]({{site.baseurl}}/projects/images/steloi/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
