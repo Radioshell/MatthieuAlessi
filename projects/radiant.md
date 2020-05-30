@@ -14,9 +14,15 @@ categories : [Graphic Design, Branding]
 
 User Experience design is about setting the stage and the conditions for positive, useful and in the better cases meaningful experiences and interactions. Those interactions are engaged through the user's senses, from that we can think about the connection between user experience and the culinary fields, beyond the food itself.
 
-The overall direction was towards a cultural perception of futurism that can be traced to science fiction. After defining the intent, the identity needed to be shaped after specific elements without trapping itself in a dated gimmick. To retain a sense of elegance I took from japanese iconography the opportunity to use illustration as a visual branding tool. This influence appears first on the logo, who takes its circular and inviting shape form the rising sun, and in the branding illustration.
+
+After defining a target audience with personas and through a series of research, I thought about what kind of restaurant experience my defined target of mostly young adults would want. Good food and service are baseline requirements, but it needs to be affordable and practical. The experience should be unique, and have well defined purpose and identity. 
+
+The overall direction was quickly turned towards futurism and science fiction, it is an interesting theme because of its aesthetics and implications. After research and building moodboards, I decided to go for a themed restaurant that would focus on offering a particular sensory experience and a futuristic atmosphere, I wanted to go for a gentler type of Blade Runner aesthetic.
 
 
+After defining the intent, the identity needed to be shaped without trapping itself in a dated gimmick. To retain a sense of elegance I took from japanese iconography the opportunity to use illustration as a visual branding tool. This influence appears first on the logo, who takes its circular and inviting shape form the rising sun, and in the branding illustration.
+
+Combining futurism and Japanese iconography, The logo takes the circular and inviting shape from the rising sun. The name also evokes a sense of hope for the next day. The vibrant colors
 
 ![img1]({{site.baseurl}}/projects/images/steloi/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
