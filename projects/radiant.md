@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  École Saint-Éloi
+title:  Radiant
 subtitle : Create a visual identity for a local catholic school
 date:   2018
 image:  item-1.jpg
@@ -22,7 +22,9 @@ The overall direction was quickly turned towards futurism and science fiction, i
 
 After defining the intent, the identity needed to be shaped without trapping itself in a dated gimmick. To retain a sense of elegance I took from japanese iconography the opportunity to use illustration as a visual branding tool. This influence appears first on the logo, who takes its circular and inviting shape form the rising sun, and in the branding illustration.
 
-Combining futurism and Japanese iconography, The logo takes the circular and inviting shape from the rising sun. The name also evokes a sense of hope for the next day. The vibrant colors
+Combining futurism and Japanese iconography, The logo takes the circular and inviting shape from the rising sun. The name also evokes a sense of hope for the next day. Exciting splashes of neon color, and lively illustrations, and unusual remind us of how our senses can light up through positive experiences.
+
+I thought Radiant as an inviting and original place that remains practical, to keep things modern and ease the customer's interaction, I designed an interface used to order. A 3d model was made to have an idea in the layout and organization of the place. The terminals are placed on spots where customers may be likely to stand while finding their way around.
 
 ![img1]({{site.baseurl}}/projects/images/steloi/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
