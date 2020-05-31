@@ -81,3 +81,7 @@ h6, .h6{
   line-height: 1.2;
 }
 
+ @media screen and (max-width: 600px) {
+  .tags{
+  display: none;
+}
