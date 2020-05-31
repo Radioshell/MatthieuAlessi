@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  Radiant
-subtitle : Create a visual identity for a local catholic school
-date:   2018
+subtitle : A personal exercise of branding
+date:   2020
 image:  item-1.jpg
 tags:   [Graphic Design, Branding]
 categories : [Graphic Design, Branding]
 ---
 ![img1]({{site.baseurl}}/projects/images/radiant/img-5.jpg){:class="mx-auto d-block post-img" :style="clear:both"}
 
-**Radiant is a concept created mainly as an occupation and a personal exercise. With a focus on the identity and how to make a small-scale cafe a modern place, there was an interesting premise. The goal: to create the concept of a unique meal experience that remains approachable and practical.**
+**Radiant is a concept created mainly as an occupation and a personal exercise. With a focus on the identity and how to make a small-scale cafe a modern place, there was an interesting premise. The goal: to create the concept of a unique meal experience that remains approachable and practical and breaks the mundane, even if only for a time.**
 
 <div style="clear:both; max-width:75%" class="paragraph">User Experience design is about setting the stage and the conditions for positive, useful and in the better cases meaningful experiences and interactions. Those interactions are engaged through the user's senses, from that we can think about the connection between user experience and the culinary fields, beyond the food itself.</div>
 
