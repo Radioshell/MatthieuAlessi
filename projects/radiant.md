@@ -7,7 +7,7 @@ image:  item-1.jpg
 tags:   [Graphic Design, Branding]
 categories : [Graphic Design, Branding]
 ---
-![img1]({{site.baseurl}}/projects/images/aeternam/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
+![img1]({{site.baseurl}}/projects/images/radiant/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
 **Radiant is a concept created mainly as an occupation and a personal exercise. With a focus on the identity and how to make a small-scale restaurant modern, there was an interesting premise. The goal: to create the concept of a unique culinary experience that remains approachable and practical.**
 
@@ -15,9 +15,10 @@ categories : [Graphic Design, Branding]
 
 After defining a target audience with personas and through a series of research, I thought about what kind of restaurant experience my defined target of mostly young adults would want. Good food and service are baseline requirements, but it needs to be affordable and practical. The experience should be unique, and have well defined purpose and identity. </div>
 
-> Designing for the senses to allow experiences to emerge, an exercise of world-building.
 
 ![img1]({{site.baseurl}}/projects/images/aeternam/img-1.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
+
+> Designing for the senses to allow experiences to emerge, an exercise of world-building.
 
 The overall direction was quickly turned towards futurism and science fiction, it is an interesting theme because of its aesthetics and implications. After research and building moodboards, I decided to go for a themed restaurant that would focus on offering a particular sensory experience and a futuristic atmosphere, I wanted to go for a gentler type of Blade Runner aesthetic.
 
