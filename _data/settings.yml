@@ -213,10 +213,14 @@ portfolio-items:
       - type: "illustration"
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
+  - image : "projects/images/radiant/item-1.jpg"
+    title : "Radiant Cafe"
+    tags: "Branding - UI Design"
+    url: "projects/radiant"
     portfolio-type:
       - type: "illustration"
+      - type: "graphic design"
+      - type: "interface"
  
   - image : "projects/images/morgentime/item-1.jpg"
     title : "Morgentime"
