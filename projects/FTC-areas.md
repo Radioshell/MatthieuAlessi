@@ -19,7 +19,13 @@ After studying FTC's buyer personas, we decided to focus on specific points and 
 
 Simply changing the CSS wasn't enough, the process needed to be streamlined while not alienating previous and recurring users. To do so, I directly worked from the Client Area's User-Flow and created a new one.
 
-After vali
+This new User Flow aims to stay faithful to the previous process, which was functional, while improving on it. The new process gives more possibility for an autonomous use for someone less used to digital interfaces and give control and security to the customer.
+
+Sketches were made and I quickly focused on building the interface with blocks. Since the Client Area doesn't need to be cluttered with infornation, it gives more freedom to use the layout space. The customer has more time to take in the information. 
+
+There was the opportunity to integrate the FTC brand in the Client Area, through the UI and by linking it to the website with links and articles placed in the process. The use blocks is here to showcase important elements, and to help with hierarchy and directing the user where he needs to go.
+
+Working with developers made me nore attuned to the needs and process related to development, I had to take into account the structure of the code and how the interface would be built.
 
 > By consolidating affordances and building on functionnality and identity, the intention is to leave a stronger mark.
 
