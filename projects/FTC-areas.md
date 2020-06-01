@@ -15,11 +15,11 @@ With a customer base of mostly people in their 50s or even 60s, the Client Area 
 
 ![img-thumb]({{site.baseurl}}/projects/images/wirecast/img-thumb.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
 
-After studying FTC's buyer personas, we decided to focus on specific points to focus on in order to improve on their Client Area. The interface needs to give agency to the user, be clear in its steps and provides automatic guidance to avoid frustrations. The first draft was simply a visual redesign without barely any changes to the interface itself. This
-second iteration will have a more experimental and idealist approach with an eventual revamp of the
-client area experience.
+After studying FTC's buyer personas, we decided to focus on specific points and common issues to focus on in order to improve the Client Area. The target audience is between 40 and 60 years old, still active and enjoy trips. They are able to use modern technologies to some extent and are on social media, they like to know what they are paying for and they need reassurance about the planning of their trip. The interface needs to give agency to the user, be clear in its steps and provides automatic guidance to avoid frustrations. 
 
-Since the podcast is still a niche domain, the existing services and applications don't necessarily share the same codes and functions, resulting in possible confusions for a new user. Wirecast not only must be useful to the usual listeners, but also build on this potential target audience and be an eventual go-to for newcomers. 
+Simply changing the CSS wasn't enough, the process needed to be streamlined while not alienating previous and recurring users. To do so, I directly worked from the Client Area's User-Flow and created a new one.
+
+After vali
 
 > By consolidating affordances and building on functionnality and identity, the intention is to leave a stronger mark.
 
