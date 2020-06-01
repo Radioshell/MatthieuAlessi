@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Follow The Camino's Client Area
+title:  Follow The Camino's Client & Supplier Area
 subtitle : Helping customers reconnect with themselves
 date:   2020
 image:  item-1.jpg
@@ -11,12 +11,13 @@ categories : [Interface Design, UI]
 
 **For over a decade, Follow The Camino has been giving its customers the possibility to take break and rekindle their souls with the planning of walking and cycling holidays. However their interface used by customers to plan their booking and pay needed a revamping to be more welcoming, and to promote a wider and autonomous use to those concerned.**
 
-Podcasts applications aren’t typically elegant, but I realized that to truly engage users, it needed a distinctive identity and an appeal while retaining functionality. The aim was to enhance and complete the experience of podcast-listening.
-Wirecast would be a solution of reference, aiming to offer greater ergonomy and interactivity than the several more dispatched and independent applications.
+With a customer base of mostly people in their 50s or even 60s, the Client Area previously had the problem of being too austere and unclear. Ultimately the goal is to make it what it’s meant to be, an interface where the client can confidently plan for him and his trip partners, but also be informed about his upcoming walking holiday. If the Camino is all about wellbeing, the interfaces Follow The Camino customers use should refect that and feel rewarding.
 
 ![img-thumb]({{site.baseurl}}/projects/images/wirecast/img-thumb.jpg){:class="img-fluid rounded float-left mr-5 mb-5 overflow-hidden"}
 
-After researches about the podcast audience and the evolution of this media, it turned out 94% of podcasts listeners were active on social media, and that there were many contexts in the listening of a podcast, from commuting to relaxing, even while working. The potential users became pretty obvious and were manifested into personas.
+After studying FTC's buyer personas, we decided to focus on specific points to focus on in order to improve on their Client Area. The interface needs to give agency to the user, be clear in its steps and provides automatic guidance to avoid frustrations. The first draft was simply a visual redesign without barely any changes to the interface itself. This
+second iteration will have a more experimental and idealist approach with an eventual revamp of the
+client area experience.
 
 Since the podcast is still a niche domain, the existing services and applications don't necessarily share the same codes and functions, resulting in possible confusions for a new user. Wirecast not only must be useful to the usual listeners, but also build on this potential target audience and be an eventual go-to for newcomers. 
 
