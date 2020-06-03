@@ -27,7 +27,9 @@ This new User Flow aims to stay faithful to the previous process, which was func
 
 <div style="clear:both; max-width:75%" class="paragraph">Sketches were made and I quickly focused on building the interface with blocks. Since the Client Area doesn't need to be cluttered with infornation, it gives more freedom to use the layout space. The customer has more time to take in the information. </div>
 
-![img2]({{site.baseurl}}/projects/images/wirecast/img-2.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
+![img2]({{site.baseurl}}/projects/images/self-writing/img-2.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
+
+![img3]({{site.baseurl}}/projects/images/self-writing/img-3.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
 
 <div style="clear:both; max-width:75%" class="paragraph">There was the opportunity to integrate the FTC brand in the Client Area, through the UI and by linking it to the website with links and articles placed in the process. The use blocks is here to showcase important elements, and to help with hierarchy and directing the user where he needs to go.
 
