@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Follow The Camino's Client & Supplier Area
+title:  Follow The Camino's Client Area
 subtitle : Helping customers reconnect with themselves
 date:   2020
 image:  item-1.jpg
