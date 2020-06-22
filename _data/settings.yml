@@ -206,12 +206,12 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image : "projects/images/morgentime/item-1.jpg"
+    title : "FTC Interfaces"
+    tags: "Interface Design"
+    url: "projects/FTC-interfaces"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "interface"
       
   - image : "projects/images/radiant/item-1.jpg"
     title : "Radiant Cafe"
