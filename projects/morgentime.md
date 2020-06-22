@@ -49,7 +49,7 @@ This personal project aims to design a modular interface for a news feed. Its pu
 
   
 <div style="clear:both; max-width:75%" class="paragraph">
-Each article is represented as a block, eventually resulting as a grid. The goal is to keep a structure similar to a classic journal and to allow a smooth navigation because of the use of timeless ergonomic affordances.        
+Each article is represented as a block, eventually resulting as a grid. I used a principle similar to Atomic Design to first design the block itself and then the environement he is in. It was an approach who aimed to go from micro to macro in order to keep a structure similar to a classic journal, while allowing a smooth navigation because of the use of timeless ergonomic affordances.        
 At launch hosted, a brief retrospective of current relevant articles that may be of interest are shown to the user. This allows them to quick access to the content they are interested in withoutspending unecessary time. The block extends to show the article's content.     
 </div>
 
