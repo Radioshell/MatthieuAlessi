@@ -44,5 +44,3 @@ To enhance the listening experience, audio parameters were included to configure
 The social functions help to connect the users and the creators the way most modern media do, and it benefits the format itself. This project shows how much untapped potential lies in podcasting, but the similarities with other prevalent online media raises questions about its true place. Where does podcasting stands between live-streaming and video content creation ? </div>
 
 ![img1]({{site.baseurl}}/projects/images/wirecast/img-5.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
-
-<iframe class="rounded" style="max-width:100% height=auto min-width=217px" src="https://radioshell.com/wp-content/uploads/2019/07/video-final-1.mp4" frameborder="0" allowfullscreen></iframe>
