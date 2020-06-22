@@ -35,4 +35,3 @@ This new User Flow aims to stay faithful to the previous process, which was func
 
 Working with developers made me nore attuned to the needs and process related to development, I had to take into account the structure of the code and how the interface would be built.</div>
 
-<iframe class="rounded" style="max-width:100% height=auto min-width=217px" src="https://radioshell.com/wp-content/uploads/2019/07/video-final-1.mp4" frameborder="0" allowfullscreen></iframe>
