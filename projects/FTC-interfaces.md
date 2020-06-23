@@ -25,7 +25,7 @@ This new User Flow aims to stay faithful to the previous process, which was func
 
 ![img4]({{site.baseurl}}/projects/images/ftc-interfaces/img-1.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
 
-![img5]({{site.baseurl}}/projects/images/ftc-interfaces/img-3.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
+![img5]({{site.baseurl}}/projects/images/ftc-interfaces/img-1.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
 
 <div style="clear:both; max-width:75%" class="paragraph">There was the opportunity to integrate the FTC brand in the Client Area, through the UI and by linking it to the website with links and articles placed in the process. The use of blocks is here to showcase important elements, and to help with hierarchy and directing the user where he needs to go.
 
