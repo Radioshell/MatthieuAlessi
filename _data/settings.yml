@@ -109,7 +109,7 @@ portfolio-btn-link: '/portfolio'
 portfolio-btn-name: see more
 
 portfolio-home-items:
-  - image : "projects/images/ftc-interfaces/item-1.jpg"
+  - image : "projects/images/ftc-interfaces/item-2.jpg"
     title : "FTC Interfaces"
     tags: "Interface Design"
     url: "projects/FTC-interfaces"
