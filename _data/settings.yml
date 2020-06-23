@@ -169,7 +169,7 @@ portfolio-label:
 
 portfolio-items:
       
-  - image : "projects/images/morgentime/item-1.jpg"
+  - image : "projects/images/ftc-interfaces/item-1.jpg"
     title : "FTC Interfaces"
     tags: "Interface Design"
     url: "projects/FTC-interfaces"
