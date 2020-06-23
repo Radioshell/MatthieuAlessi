@@ -128,6 +128,16 @@ portfolio-home-items:
     tags: "Branding - Illustration"
     url: "projects/aeternam"
     
+  - image : "projects/images/steloi/item-1.jpg"
+    title : "Saint-Éloi School"
+    tags: "Graphic Design - Branding"
+    url: "projects/st-eloi-school"
+   
+  - image : "projects/images/morgentime/item-1.jpg"
+    title : "Morgentime"
+    tags: "Interface Design"
+    url: "projects/morgentime"
+   
 
 # Portfolio Page
 portfolio-label:
