@@ -27,11 +27,11 @@ This new User Flow aims to stay faithful to the previous process, which was func
 
 ![img5]({{site.baseurl}}/projects/images/ftc-interfaces/img-3.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
 
-<div style="clear:both; max-width:75%" class="paragraph">There was the opportunity to integrate the FTC brand in the Client Area, through the UI and by linking it to the website with links and articles placed in the process. The use of blocks is here to showcase important elements, and to help with hierarchy and directing the user where he needs to go.
+<div style="clear:both; max-width:75%" class="paragraph">There was the opportunity to integrate the FTC brand in the Client Area, through the UI and by linking it to the website with links and articles placed in the process. The use of blocks is here to showcase important elements, and to help with hierarchy and directing the user where he needs to go.</div>
 
 ![img6]({{site.baseurl}}/projects/images/ftc-interfaces/img-6.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
-Working with developers made me nore attuned to the needs and process related to development, I had to take into account the structure of the code and how the interface would be built.</div>
+<div style="clear:both; max-width:75%" class="paragraph">Working with developers made me nore attuned to the needs and process related to development, I had to take into account the structure of the code and how the interface would be built.</div>
 
 ![img7]({{site.baseurl}}/projects/images/ftc-interfaces/img-7.jpg){:class="mx-auto d-block rounded post-img" :style="clear:both"}
 
