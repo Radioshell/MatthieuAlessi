@@ -12,12 +12,13 @@
       <div class="col-lg-4 col-6 mb-4 shuffle-item">
         <div class="position-relative hover-wrapper">
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid w-100 d-block">
-          <div class="hover-overlay">
+          <a class="hover-overlay" href="{{ item.url }}">
             <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="{{ item.url }}">view project</a><h5 class="font-secondary" style="padding-top:10px">{{ item.title | escape }}</h5><p>{{ item.tags }}</p>
+              <p class="font-tertiary" style="padding-top:10px; font-size: 15px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px"
+ href="{{ item.url }}" >{{ item.title | escape }}</p><p class="tags">{{ item.tags }}</p>
          
             </div>
-          </div>
+          </a>
         </div>
       </div>
       {% endfor %}
@@ -33,3 +34,17 @@
 </section>
 <!-- /portfolio -->
 {% endif %}
+
+<!-- <div class="row shuffle-wrapper">
+      {% for item in site.data.settings.portfolio-home-items %}
+      <div class="col-lg-4 col-6 mb-4 shuffle-item">
+        <div class="position-relative hover-wrapper">
+          <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="{{ item.url }}">view project</a><h5 class="font-secondary" style="padding-top:10px">{{ item.title | escape }}</h5><p>{{ item.tags }}</p>
+         
+            </div>
+          </div>
+        </div>
+      </div>
