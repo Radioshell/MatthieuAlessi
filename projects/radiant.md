@@ -33,7 +33,7 @@ categories : [Graphic Design, Branding]
 
 ![img1]({{site.baseurl}}/projects/images/radiant/img-1.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
 
-![img1]({{site.baseurl}}/projects/images/radiant/img-2.jpg){:class="mx-auto d-block post-img portfolio-col-img"}}
+![img1]({{site.baseurl}}/projects/images/radiant/img-2.jpg){:class="mx-auto d-block post-img portfolio-col-img"}
 
 ![img1]({{site.baseurl}}/projects/images/radiant/img-7.jpg){:class="mx-auto d-block post-img" :style="clear:both"}
 
