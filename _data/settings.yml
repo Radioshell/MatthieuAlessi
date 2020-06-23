@@ -1,14 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: radioshell
+title: Matthieu Alessi
 logo: logo.png
 
 
 menu:
 - {name: About, link: '/about'}
 - {name: Portfolio, link: '/portfolio'}
-#- {name: Blog, link: '/blog'}
 - {name: Contact, link: '/contact'}
 
 
@@ -50,19 +49,6 @@ blurb-btn-name: know more
 
 # About Page
 
-# Work Process Section
-work-process:
-  - title : "Research and Plan"
-    icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Design and Develop"
-    icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Deliver"
-    icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 
@@ -86,16 +72,6 @@ experience:
 - {name: Drawing Skills, icon: 'icon-2.png', date: '⚪⚪⚪⚪', organization: 'Traditional & Digital'}
 - {name: HTML/CSS, icon: 'icon-1.png', date: '⚪⚪', organization: 'Beginner'}
 - {name: English, icon: 'icon-2.png', date: '⚪⚪⚪⚪', organization: 'C1 - (955) TOEIC'}
-
-#-------------------------------
-# Education Section
-
-education-title: Education
-education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 
 #-------------------------------
@@ -133,23 +109,25 @@ portfolio-btn-link: '/portfolio'
 portfolio-btn-name: see more
 
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "/about"
-    title : "TEST TITLE 2"
-    tags: "test tag"
+  - image : "projects/images/ftc-interfaces/item-1.jpg"
+    title : "FTC Interfaces"
+    tags: "Interface Design"
+    url: "projects/FTC-interfaces"
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "/2017/05/26/amazon-increase-income-1.5-million-copy-6/"
+  - image : "projects/images/radiant/item-1.jpg"
+    title : "Radiant Cafe"
+    tags: "Branding - UI Design"
+    url: "projects/radiant"
+    portfolio-type:
+      - type: "illustration"
+      - type: "graphic design"
+      - type: "interface"
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "projects/test"
+  - image : "projects/images/aeternam/item-1.jpg"
+    title : "Aeternam"
+    tags: "Branding - Illustration"
+    url: "projects/aeternam"
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-
 
 # Portfolio Page
 portfolio-label:
@@ -236,26 +214,6 @@ portfolio-items:
     portfolio-type:
       - type: "graphic design"
      
-      
-      
-#-------------------------------
-# Testimonials Section
-
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 
 #-------------------------------
